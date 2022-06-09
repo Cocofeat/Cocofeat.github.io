@@ -1,4 +1,4 @@
-# Ke Zou (CoCo) ![image](https://github.com/Cocofeat/Cocofeat.github.io/yourper.png)
+# Ke Zou (CoCo) ![image](https://github.com/Cocofeat/Cocofeat.github.io/blob/main/yourper.jpg)
 ## PhD candidate in SCU
 ## Email: kezou8(AT)gmail(DOT)com
 
