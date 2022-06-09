@@ -10,7 +10,6 @@
 ##  :fire: NEWS :fire:
 One paper about [TBraTS: Trusted Brain Tumor Segmentation](https://github.com/Cocofeat/TBraTS/) was accepted by MICCAI'2022.
 
-## Bio: 
 <table border="0">
   <tr>
     <td width="75%">
