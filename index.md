@@ -1,5 +1,5 @@
 # Ke Zou (CoCo)
-<td width="25%"> <img src="/yourper.png" width="100%">
+<td width="25%"> <img src="https://github.com/Cocofeat/Cocofeat.github.io/blob/main/yourper.jpg" width="100%">
 ## PhD candidate in SCU
 ## Email: kezou8(AT)gmail(DOT)com
 
