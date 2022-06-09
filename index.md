@@ -8,7 +8,7 @@
 * **AI+ Intelligent Vehicle**: track2track association, multi-sensor fusion (lidar & camera).
 
 ##  🔥 NEWS 🔥
-* [06/2022] One paper about [TBraTS: Trusted Brain Tumor Segmentation](https://github.com/Cocofeat/TBraTS/) was accepted by MICCAI'2022.
+* [06/2022] One paper about [TBraTS: Trusted Brain Tumor Segmentation](https://github.com/Cocofeat/TBraTS/) was accepted by ***MICCAI'2022***.
 
 <table border="0">
   <tr>
