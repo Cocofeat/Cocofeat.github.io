@@ -7,7 +7,7 @@
 * Computer Vision: point set registration
 * AI+ Intelligent Vehicle: track2track association, multi-sensor fusion (lidar-camera)
 
-##  :fire: NEWS :fire:
+##  🔥 NEWS 🔥
 One paper about [TBraTS: Trusted Brain Tumor Segmentation](https://github.com/Cocofeat/TBraTS/) was accepted by MICCAI'2022.
 
 <table border="0">
