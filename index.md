@@ -1,16 +1,19 @@
-## Bio: 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1> Ke Zou (CoCo)</h1>
-      <p><b>PhD candidate in SCU</b></p>
-      <p><b>Email: kezou8(AT)gmail(DOT)com
-    </td>
-    <td width="25%">
-      <img src="https://github.com/Cocofeat/Cocofeat.github.io/blob/main/yourper.jpg" width="100%"> 
-    </td>
-  </tr>
-</table>
+%## Bio: 
+%<table border="0">
+%  <tr>
+%    <td width="75%">
+%      <h1> Ke Zou (CoCo)</h1>
+%      <p><b>PhD candidate in SCU</b></p>
+%      <p><b>Email: kezou8(AT)gmail(DOT)com
+%    </td>
+%    <td width="25%">
+%      <img src="https://github.com/Cocofeat/Cocofeat.github.io/blob/main/yourper.jpg" width="100%"> 
+%    </td>
+%  </tr>
+% </table>
+# Ke Zou (CoCo)
+## PhD candidate in SCU
+## Email: kezou8(AT)gmail(DOT)com
 
 ## My research focuses on: 
 * AI+ Healthcare: medical image segmentation, multi-modal learning 
