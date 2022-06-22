@@ -10,7 +10,7 @@
 ****
 
 ##  🔥 NEWS 🔥
-* [06/2022] One paper about [TBraTS: Trusted Brain Tumor Segmentation](https://github.com/Cocofeat/TBraTS/) was accepted by ***MICCAI'2022***.
+* [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by ***MICCAI'2022***. [Code](https://github.com/Cocofeat/TBraTS/)[paper](https://arxiv.org/abs/2206.09309)
 
 ****
 <table border="0">
