@@ -11,7 +11,6 @@
     </td>
   </tr>
  </table>
-****
 
 ****
 ## My research focuses on: 
