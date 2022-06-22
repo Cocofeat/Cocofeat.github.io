@@ -23,3 +23,14 @@
 * [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by ***MICCAI'2022***. 
 [[Code]](https://github.com/Cocofeat/TBraTS/) [[paper]](https://arxiv.org/abs/2206.09309)
 
+## Honors 
+* 2021.12 – Outstanding Graduate Thesis of Chongqing
+* 2021.09 – Outstanding Postgraduate of Sichuan University
+* 2020.06 – Outstanding Graduate Student of Chongqing
+* 2017.06 - Outstanding Undergraduate Student of Chongqing
+* 2015.11 – National Scholarship (1%)
+
+## Services
+* Conference Reviewer: FUSION
+* Journal Reviewer: Signal Processing, IEEE Access
+
