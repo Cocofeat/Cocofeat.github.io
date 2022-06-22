@@ -1,18 +1,3 @@
-# Ke Zou (CoCo)
-### PhD candidate in SCU
-### Email: kezou8(AT)gmail(DOT)com
-
-****
-## My research focuses on: 
-* **AI+ Healthcare**: medical image segmentation, multi-modal learning. 
-* **Computer Vision**: point set registration.
-* **AI+ Intelligent Vehicle**: track2track association, multi-sensor fusion (lidar & camera).
-****
-
-##  🔥 NEWS 🔥
-* [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by ***MICCAI'2022***. 
-[[Code]](https://github.com/Cocofeat/TBraTS/) [[paper]](https://arxiv.org/abs/2206.09309)
-
 ****
 <table border="0">
   <tr>
@@ -27,3 +12,15 @@
   </tr>
  </table>
 ****
+
+****
+## My research focuses on: 
+* **AI+ Healthcare**: medical image segmentation, multi-modal learning. 
+* **Computer Vision**: point set registration.
+* **AI+ Intelligent Vehicle**: track2track association, multi-sensor fusion (lidar & camera).
+****
+
+##  🔥 NEWS 🔥
+* [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by ***MICCAI'2022***. 
+[[Code]](https://github.com/Cocofeat/TBraTS/) [[paper]](https://arxiv.org/abs/2206.09309)
+
