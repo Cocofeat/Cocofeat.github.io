@@ -21,7 +21,7 @@
 
 ##  🔥 NEWS 🔥
 * [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by ***MICCAI'2022***. 
- [[pdf]](https://arxiv.org/abs/2206.09309) [[Code]](https://github.com/Cocofeat/TBraTS/)
+ [[pdf]](https://arxiv.org/abs/2206.09309) [[code]](https://github.com/Cocofeat/TBraTS/)
 
 ## Honors 
 * 2021.12 – Outstanding Graduate Thesis of Chongqing
