@@ -20,6 +20,8 @@
 ****
 
 ##  🔥 NEWS 🔥
+* [08/2022] One paper about "An interactive dual-branch network for hard palate segmentation of the oral cavity from CBCT images" was accepted by ***Applied Soft Computing***. 
+* [07/2022] Happy to be funded by [[CSC]](https://www.csc.edu.cn/) ***CSC: SCU & A*star***. 
 * [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by ***MICCAI'2022***. 
  [[pdf]](https://arxiv.org/abs/2206.09309) [[code]](https://github.com/Cocofeat/TBraTS/)
 
