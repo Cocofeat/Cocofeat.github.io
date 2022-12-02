@@ -33,6 +33,6 @@
 * 2015.11 – National Scholarship (1%)
 
 ## Services
-* Conference Reviewer: ***FUSION***
-* Journal Reviewer: ***Signal Processing***, ***IEEE Access***
+* Conference Reviewer: ***FUSION***, ***ICASSP***
+* Journal Reviewer: ***Signal Processing***, ***IEEE JBHI***, ***IEEE Access***
 
