@@ -37,5 +37,5 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 
 ## Services
 * Conference Reviewer: ***FUSION***, ***ICASSP***, ***MIDL***, ***MICCAI***
-* Journal Reviewer: ***Signal Processing***, ***IEEE JBHI***, ***IEEE Access***
+* Journal Reviewer: ***Signal Processing***, ***IEEE TAI***, ***IEEE JBHI***, ***IEEE Access***
 
