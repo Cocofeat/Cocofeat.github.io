@@ -11,7 +11,7 @@
     </td>
   </tr>
  </table>
-Ke Zou received the M.S. degree from the College of Automation, Chongqing University of Posts and Telecomunications, in 2020. He is currently pursuing the Ph.D. degree with the National Key Laboratory of Fundamental Science on Synthetic Vision, the College of Computer Science, Sichuan University, China. His research interests include medical image analysis, uncertainty estimation, trustworthy learning and point set registration.
+Ke Zou received the M.S. degree from the College of Automation, Chongqing University of Posts and Telecomunications, in 2020. He is currently pursuing the Ph.D. degree with the National Key Laboratory of Fundamental Science on Synthetic Vision, the College of Computer Science, Sichuan University, China. He was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of Dr. Huazhu Fu. His research interests include medical image analysis, uncertainty estimation, trustworthy learning and point set registration.
 
 ****
 ## My research focuses on: 
