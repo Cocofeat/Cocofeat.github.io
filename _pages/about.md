@@ -24,16 +24,16 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 * 🔥 **AI+ Healthcare**: Medical image segmentation, uncertainty estimation, multi-modal learning，vision-language model.
 * **Computer Vision**: Point set registration.
 * **AI+ Intelligent Vehicle**: Track2track association, multi-sensor fusion (lidar and camera).
-****
+
 
 # 🔥 News
-- [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was early accepted by ***Nature Communications***.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
-- [06/2023] One paper about "Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation" was early accepted by ***MICCAI'2023***.  [[pdf]](https://arxiv.org/abs/2303.09790) [[code]](https://github.com/Cocofeat/EyeMoSt/)
-- [06/2023] One paper about "Multi-modality learning with uncertainty estimation" was early accepted by ***MICCAI'2023***.  [[pdf]](https://arxiv.org/abs/2303.10049) [[code]](https://github.com/Cocofeat/UML/)
-- [01/2023] One paper about "Artificial intelligence‐assisted determination of available sites for palatal orthodontic mini‐implants based on palatal thickness through CBCT" was accepted by ***Orthodontics & Craniofacial Research***. 
-- [08/2022] One paper about "An interactive dual-branch network for hard palate segmentation of the oral cavity from CBCT images" was accepted by ***Applied Soft Computing***. 
-- [07/2022] Happy to be funded by [[CSC]](https://www.csc.edu.cn/) ***CSC: SCU and A\*star***. 
-- [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by ***MICCAI'2022***. 
+- [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was early accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
+- [06/2023] One paper about "Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation" was early accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.09790) [[code]](https://github.com/Cocofeat/EyeMoSt/)
+- [06/2023] One paper about "Multi-modality learning with uncertainty estimation" was early accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.10049) [[code]](https://github.com/Cocofeat/UML/)
+- [01/2023] One paper about "Artificial intelligence‐assisted determination of available sites for palatal orthodontic mini‐implants based on palatal thickness through CBCT" was accepted by **Orthodontics & Craniofacial Research**. 
+- [08/2022] One paper about "An interactive dual-branch network for hard palate segmentation of the oral cavity from CBCT images" was accepted by **Applied Soft Computing**. 
+- [07/2022] Happy to be funded by [[CSC]](https://www.csc.edu.cn/) **CSC: SCU and A\*star**. 
+- [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by **MICCAI'2022**. 
  [[pdf]](https://arxiv.org/abs/2206.09309) [[code]](https://github.com/Cocofeat/TBraTS/)
 
 # 📝 Publications 
@@ -43,14 +43,14 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 
 [Uncertainty-inspired open set learning for retinal anomaly identification](\https://www.nature.com/articles/s41467-023-42444-7)
 
-Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**
+Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**, et al.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022, MIA submission</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Reliable Medical Image Segmentation by utilizing Evidential Calibrated Uncertainty][[Conference Paper]](https://arxiv.org/abs/2206.09309)  [[code]](https://github.com/Cocofeat/TBraTS)[[Journal Paper]](https://arxiv.org/abs/2301.00349)[[code]](https://github.com/Cocofeat/DEviS)
+[Towards Reliable Medical Image Segmentation by utilizing Evidential Calibrated Uncertainty][[Conference]](https://arxiv.org/abs/2206.09309) [[Code]](https://github.com/Cocofeat/TBraTS)[[Journal]](https://arxiv.org/abs/2301.00349)[[Code]](https://github.com/Cocofeat/DEviS)
 
 **Ke Zou**, Yidi Chen, Ling Huang, Xuedong Yuan, Xiaojing Shen, Meng Wang, Rick Siow Mong Goh, Yong Liu, Huazhu Fu
 </div>
@@ -59,7 +59,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 Early Accept, MIA submission</div><img src='images/MICCAI_EyeMoSt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_56)[EyeMoSt+/EyeMoSt Codes](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924)
+[Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_56)[[EyeMoSt+/EyeMoSt Codes]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924)
 
 **Ke Zou** *, Tian Lin*, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu
 </div>
