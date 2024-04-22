@@ -36,7 +36,7 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 - [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by **MICCAI'2022**. 
  [[pdf]](https://arxiv.org/abs/2206.09309) [[code]](https://github.com/Cocofeat/TBraTS/)
 
-# 📝 Publications 
+# 📝 Publications (\* means co-first author)
 ## Trustworthy Medical Image Analysis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/NC_UIOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
