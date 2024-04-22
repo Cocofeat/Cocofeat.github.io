@@ -52,7 +52,7 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 
 [SAM-U: Multi-box Prompts Triggered Uncertainty Estimation for Reliable SAM in Medical Image](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
 
-**Ke Zou**
+Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu
 </div>
 </div>
 
@@ -80,7 +80,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**
 
 [Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_56)[EyeMoSt+/EyeMoSt Codes](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924)
 
-**Ke Zou**, Tian Lin*, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu
+**Ke Zou** *, Tian Lin*, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu
 </div>
 </div>
 
