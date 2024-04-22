@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Ke Zou received the M.S. degree from the College of Automation, Chongqing University of Posts and Telecomunications, in 2020. He is currently pursuing the Ph.D. degree with the National Key Laboratory of Fundamental Science on Synthetic Vision, the College of Computer Science, Sichuan University, China. He was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of [Dr. Huazhu Fu](https://hzfu.github.io/). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+****
+## My research focuses on: 
+* **AI+ Healthcare**: medical image segmentation, uncertainty estimation, multi-modal learning，vision-language model.
+* **Computer Vision**: point set registration.
+* **AI+ Intelligent Vehicle**: track2track association, multi-sensor fusion (lidar & camera).
+****
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was early accepted by ***Nature Communications***.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
+- [06/2023] One paper about "Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation" was early accepted by ***MICCAI'2023***.  [[pdf]](https://arxiv.org/abs/2303.09790) [[code]](https://github.com/Cocofeat/EyeMoSt/)
+- [06/2023] One paper about "Multi-modality learning with uncertainty estimation" was early accepted by ***MICCAI'2023***.  [[pdf]](https://arxiv.org/abs/2303.10049) [[code]](https://github.com/Cocofeat/UML/)
+- [01/2023] One paper about "Artificial intelligence‐assisted determination of available sites for palatal orthodontic mini‐implants based on palatal thickness through CBCT" was accepted by ***Orthodontics & Craniofacial Research***. 
+- [08/2022] One paper about "An interactive dual-branch network for hard palate segmentation of the oral cavity from CBCT images" was accepted by ***Applied Soft Computing***. 
+- [07/2022] Happy to be funded by [[CSC]](https://www.csc.edu.cn/) ***CSC: SCU & A\*star***. 
+- [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by ***MICCAI'2022***. 
+ [[pdf]](https://arxiv.org/abs/2206.09309) [[code]](https://github.com/Cocofeat/TBraTS/)
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## Trustworthy Medical Image Analysis
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Uncertainty-inspired open set learning for retinal anomaly identification](\https://www.nature.com/articles/s41467-023-42444-7)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Meng Wang, Tian Lin, Lianyu Wang, Aidi Lin, **Ke Zou**
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2021.12 – Outstanding Graduate Thesis of Chongqing
+- 2021.09 – Outstanding Postgraduate of Sichuan University
+- 2020.06 – Outstanding Graduate Student of Chongqing
+- 2017.06 - Outstanding Undergraduate Student of Chongqing
+- 2015.11 – National Scholarship (1%)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🗣 Activities
+## Reviewers
+- Conference Reviewer: ***FUSION2022***, ***ICASSP2023, 2024***, ***MIDL2023, 2024***, ***MICCAI2023, 2024***, ***ICIP2023, 2024***
+- Journal Reviewer: ***IEEE TMI***, ***Signal Processing***, ***IEEE TAI***, ***IEEE JBHI***, ***IEEE Access***
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Talks and Presentations
+- *2024.04*, AIxMed Biweekly Seminar, curated by the MGH/HMS Center for Advanced Medical Computing and Analysis (CAMCA), invited by [Prof. Xiang Li](https://xiangli-shaun.github.io/).
+- *2023.12*, Central China Normal University Nanhu Forum academic exchange report, curated by School of Computer Science, Central China Normal University， invited by [Prof. Yutao Ma](https://cs.ccnu.edu.cn/info/1109/2702.htm).
+- *2023.11*, The Third Graduate Academic Forum, curated by Chinese Journal of Graphics and Images.
+- *2022.08* [MICS2022](https://aim.nuist.edu.cn/events/mics2022.htm) of [TBraTS: Trusted Brain Tumor Segmentation](https://www.bilibili.com/video/BV1nW4y1a7Qp/?spm_id_from=333.337.search-card.all.click&vd_source=6ab19d355475883daafd34a6daae54a5) (**3rd Prize**)
+- *2019.07*, FUSION2019, Ottawa, Canada.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experiences
+- *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
