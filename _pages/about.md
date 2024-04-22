@@ -47,7 +47,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022, MIA submission</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Reliable Medical Image Segmentation by utilizing Evidential Calibrated Uncertainty][[Conference Paper]](https://arxiv.org/abs/2206.09309)  [[code]](https://github.com/Cocofeat/TBraTS)[[Journal Paper]](https://arxiv.org/abs/2301.00349)[[code]](https://github.com/Cocofeat/DEviS)
@@ -56,7 +56,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 Early Accept</div><img src='images/MICCAI_EyeMoSt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 Early Accept, MIA submission</div><img src='images/MICCAI_EyeMoSt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_56)[EyeMoSt+/EyeMoSt Codes](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924)
@@ -116,6 +116,6 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 # 📖 Educations
 - *2020.09 - 2024.06 (now)*, Ph.D, Sichuan University, Chengdu.
 - *2017.09 - 2020.06*, M.S, Chongqing University of Posts and Telecomunications.
-- 
+
 # 💻 Experiences
 - *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
