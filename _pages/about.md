@@ -43,7 +43,7 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 
 [Uncertainty-inspired open set learning for retinal anomaly identification](\https://www.nature.com/articles/s41467-023-42444-7)
 
-Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**, et al.
+Meng Wang^*^, Tian Lin^*^, Lianyu Wang^*^, Aidi Lin, **Ke Zou**, et al.
 </div>
 </div>
 
@@ -61,7 +61,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**, et al.
 
 [Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_56)[[EyeMoSt+/EyeMoSt Codes]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924)
 
-**Ke Zou** *, Tian Lin*, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu
+**Ke Zou**^*^, Tian Lin^*^, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu
 </div>
 </div>
 
@@ -70,7 +70,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**, et al.
 
 [Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_4)
 
-Kai Ren*, **Ke Zou** *, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Meng Wang, Huazhu Fu
+Kai Ren^*^, **Ke Zou**^*^, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Meng Wang, Huazhu Fu
 </div>
 </div>
 
@@ -80,7 +80,7 @@ Kai Ren*, **Ke Zou** *, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Men
 
 [MedRG: Medical Report Grounding with Multi-modal Large Language Model](https://arxiv.org/abs/2404.06798)
 
-**Ke Zou** *, Yang Bai*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
+**Ke Zou**^*^, Yang Bai^*^, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
 </div>
 </div>
 -->
