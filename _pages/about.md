@@ -70,7 +70,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**, et al.
 
 [Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_4)
 
-Kai Ren*, **Ke Zou** *, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Meng Wang, Huazhu Fu
+Kai Ren*, **Ke Zou***, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Meng Wang, Huazhu Fu
 </div>
 </div>
 
@@ -80,7 +80,7 @@ Kai Ren*, **Ke Zou** *, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Men
 
 [MedRG: Medical Report Grounding with Multi-modal Large Language Model](https://arxiv.org/abs/2404.06798)
 
-**Ke Zou** *, Yang Bai *, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
+**Ke Zou** *, Yang Bai*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
 </div>
 </div>
 -->
