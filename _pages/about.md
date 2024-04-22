@@ -19,6 +19,9 @@ redirect_from:
 
 Ke Zou received the M.S. degree from the College of Automation, Chongqing University of Posts and Telecomunications, in 2020. He is currently pursuing the Ph.D. degree with the National Key Laboratory of Fundamental Science on Synthetic Vision, the College of Computer Science, Sichuan University, China. He was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of [Dr. Huazhu Fu](https://hzfu.github.io/). 
 
+- 👯 I’m looking to collaborate on __Trustworthy multi-modality learning__ with uncertainty estimation.
+- ⚡ I'm seeking __Postdoc/Research fellow__ position in 2024.
+
 ****
 ## His research focuses on: 
 * 🔥 **AI+ Healthcare**: Medical image analysis, uncertainty estimation, multi-modal learning，vision-language model.
