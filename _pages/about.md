@@ -108,7 +108,7 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 
 # 💬 Talks and Presentations
 - *2024.04*, AIxMed Biweekly Seminar, curated by the MGH/HMS Center for Advanced Medical Computing and Analysis (CAMCA), invited by [Prof. Xiang Li](https://xiangli-shaun.github.io/).
-- *2023.12*, Central China Normal University Nanhu Forum academic exchange report, curated by School of Computer Science, Central China Normal University， invited by [Prof. Yutao Ma](https://cs.ccnu.edu.cn/info/1109/2702.htm).
+- *2023.12*, Central China Normal University Nanhu Forum academic exchange report, curated by School of Computer Science, Central China Normal University, invited by [Prof. Yutao Ma](https://cs.ccnu.edu.cn/info/1109/2702.htm).
 - *2023.11*, The Third Graduate Academic Forum, curated by Chinese Journal of Graphics and Images.
 - *2022.08* [MICS2022](https://aim.nuist.edu.cn/events/mics2022.htm) of [TBraTS: Trusted Brain Tumor Segmentation](https://www.bilibili.com/video/BV1nW4y1a7Qp/?spm_id_from=333.337.search-card.all.click&vd_source=6ab19d355475883daafd34a6daae54a5) (**3rd Prize**)
 - *2019.07*, FUSION2019, Ottawa, Canada.
