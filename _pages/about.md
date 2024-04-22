@@ -103,7 +103,7 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 
 # 🗣 Activities
 ## Reviewers
-- Conference Reviewer: ***FUSION2022***, ***ICASSP2023, 2024***, ***MIDL2023, MIDL2024***, ***MICCAI2023, MICCAI2024***, ***ICIP2023, ICIP2024***
+- Conference Reviewer: ***FUSION2022***, ***ICASSP2023, ICASSP2024***, ***MIDL2023, MIDL2024***, ***MICCAI2023, MICCAI2024***, ***ICIP2023, ICIP2024***
 - Journal Reviewer: ***IEEE TMI***, ***Signal Processing***, ***IEEE TAI***, ***IEEE JBHI***, ***IEEE Access***
 
 # 💬 Talks and Presentations
