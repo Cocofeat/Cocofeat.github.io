@@ -32,7 +32,7 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 - [06/2023] One paper about "Multi-modality learning with uncertainty estimation" was early accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.10049) [[code]](https://github.com/Cocofeat/UML/)
 - [01/2023] One paper about "Artificial intelligence‐assisted determination of available sites for palatal orthodontic mini‐implants based on palatal thickness through CBCT" was accepted by **Orthodontics & Craniofacial Research**. 
 - [08/2022] One paper about "An interactive dual-branch network for hard palate segmentation of the oral cavity from CBCT images" was accepted by **Applied Soft Computing**. 
-- [07/2022] Happy to be funded by [[CSC]](https://www.csc.edu.cn/) **CSC: SCU and A\*star**. 
+- [07/2022] Happy to be funded by [[CSC]](https://www.csc.edu.cn/) **CSC: SCU and A\*STAR**. 
 - [06/2022] One paper about "TBraTS: Trusted Brain Tumor Segmentation" was accepted by **MICCAI'2022**. 
  [[pdf]](https://arxiv.org/abs/2206.09309) [[code]](https://github.com/Cocofeat/TBraTS/)
 
@@ -43,7 +43,7 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 
 [Uncertainty-inspired open set learning for retinal anomaly identification](\https://www.nature.com/articles/s41467-023-42444-7)
 
-Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**, et al.
+Meng Wang\*, Tian Lin\*, Lianyu Wang\*, Aidi Lin, **Ke Zou**, et al.
 </div>
 </div>
 
@@ -61,7 +61,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**, et al.
 
 [Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_56)[[EyeMoSt+/EyeMoSt Codes]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924)
 
-**Ke Zou***, Tian Lin*, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu
+**Ke Zou**\*, Tian Lin\*, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu
 </div>
 </div>
 
@@ -70,7 +70,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**, et al.
 
 [Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_4)
 
-Kai Ren*, **Ke Zou***, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Meng Wang, Huazhu Fu
+Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Meng Wang, Huazhu Fu
 </div>
 </div>
 
@@ -80,7 +80,7 @@ Kai Ren*, **Ke Zou***, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Meng
 
 [MedRG: Medical Report Grounding with Multi-modal Large Language Model](https://arxiv.org/abs/2404.06798)
 
-**Ke Zou** *, Yang Bai*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
+**Ke Zou**\*, Yang Bai\*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
 </div>
 </div>
 -->
