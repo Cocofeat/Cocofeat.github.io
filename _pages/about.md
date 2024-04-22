@@ -123,6 +123,7 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 
 # 💻 Experiences and Projects
 ## Projects
+
 - *2019.04 - 2020.04*, Chongqing Postgraduate Research and Innovation Project, Multi-vehicle Lidar Integrated Registration based on Variational Bayesian under Time and Space Factors, **PI, 10,000 RMB**.
 - *2021.10 - 2022.09*, Sichuan Provincial Department of Science and Technology, Cultivation Project, Joint Registration, Fusion and Segmentation of Multimodal Medical Image Based on Deep Neural Network, **PI, 30,000 RMB**.
 - *2022.10 - 2023.09*, A*STAR SERC Central Research Fund, Robust and Trustworthy AI system for Multi-modality Healthcare, **Key member**.
@@ -130,4 +131,5 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 - *2023.01 - 2024.12*, Key research and development project in Sichuan Province, research on the key problems of oral hard palate segmentation and its application in orthodontic treatment, **Key member**.
 
 ## Experiences
+
 - *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Principal Scientist: Huazhu Fu](https://hzfu.github.io/).
