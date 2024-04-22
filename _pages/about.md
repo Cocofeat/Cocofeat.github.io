@@ -21,7 +21,7 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 
 ****
 ## His research focuses on: 
-* 🔥 **AI+ Healthcare**: Medical image segmentation, uncertainty estimation, multi-modal learning，vision-language model.
+* 🔥 **AI+ Healthcare**: Medical image analysis, uncertainty estimation, multi-modal learning，vision-language model.
 * **Computer Vision**: Point set registration.
 * **Intelligent Vehicle**: Track2track association, multi-sensor fusion (lidar and camera).
 
