@@ -29,8 +29,8 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
 # 🔥 News
 - [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
 - [07/2023] One paper about "A review of uncertainty estimation and its application in medical imaging" was accepted by **Meta-Radiology**.  [[pdf]](https://www.sciencedirect.com/science/article/pii/S2950162823000036)
-- [06/2023] One paper about "Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation" was accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.09790) [[code]](https://github.com/Cocofeat/EyeMoSt/)
-- [06/2023] One paper about "Multi-modality learning with uncertainty estimation" was early accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.10049) [[code]](https://github.com/Cocofeat/UML/)
+- [06/2023] One paper about "Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation" was accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.09790) [[code]](https://github.com/Cocofeat/UML/)
+- [06/2023] One paper about "Multi-modality learning with uncertainty estimation" was early accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.10049) [[code]](https://github.com/Cocofeat/EyeMoSt/)
 - [01/2023] One paper about "Artificial intelligence‐assisted determination of available sites for palatal orthodontic mini‐implants based on palatal thickness through CBCT" was accepted by **Orthodontics & Craniofacial Research**. 
 - [08/2022] One paper about "An interactive dual-branch network for hard palate segmentation of the oral cavity from CBCT images" was accepted by **Applied Soft Computing**. 
 - [07/2022] Happy to be funded by [[CSC]](https://www.csc.edu.cn/) **CSC: SCU and A\*STAR**. 
