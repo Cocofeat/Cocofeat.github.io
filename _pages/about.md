@@ -37,25 +37,6 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
  [[pdf]](https://arxiv.org/abs/2206.09309) [[code]](https://github.com/Cocofeat/TBraTS/)
 
 # 📝 Publications 
-## Vision-language/Foundation model
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MedRG: Medical Report Grounding with Multi-modal Large Language Model](https://arxiv.org/abs/2404.06798)
-
-**Ke Zou** *, Yang Bai*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SAM-U: Multi-box Prompts Triggered Uncertainty Estimation for Reliable SAM in Medical Image](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
-
-Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu
-</div>
-</div>
-
 ## Trustworthy Medical Image Analysis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/NC_UIOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,7 +65,7 @@ Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/MICCAI_UMML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/MICCAI_UMML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_4)
@@ -93,6 +74,25 @@ Kai Ren*, **Ke Zou** *, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Men
 </div>
 </div>
 
+## Vision-language/Foundation model
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024 Submission</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MedRG: Medical Report Grounding with Multi-modal Large Language Model](https://arxiv.org/abs/2404.06798)
+
+**Ke Zou** *, Yang Bai*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
+</div>
+</div>
+-->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 workshop</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAM-U: Multi-box Prompts Triggered Uncertainty Estimation for Reliable SAM in Medical Image](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
+
+Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - 2021.12 – Outstanding Graduate Thesis of Chongqing
@@ -113,5 +113,9 @@ Kai Ren*, **Ke Zou** *, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Men
 - *2022.08* [MICS2022](https://aim.nuist.edu.cn/events/mics2022.htm) of [TBraTS: Trusted Brain Tumor Segmentation](https://www.bilibili.com/video/BV1nW4y1a7Qp/?spm_id_from=333.337.search-card.all.click&vd_source=6ab19d355475883daafd34a6daae54a5) (**3rd Prize**)
 - *2019.07*, FUSION2019, Ottawa, Canada.
 
+# 📖 Educations
+- *2020.09 - 2024.06 (now)*, Ph.D, Sichuan University, Chengdu.
+- *2017.09 - 2020.06*, M.S, Chongqing University of Posts and Telecomunications.
+- 
 # 💻 Experiences
 - *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
