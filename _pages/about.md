@@ -37,15 +37,62 @@ Ke Zou received the M.S. degree from the College of Automation, Chongqing Univer
  [[pdf]](https://arxiv.org/abs/2206.09309) [[code]](https://github.com/Cocofeat/TBraTS/)
 
 # 📝 Publications 
+## Vision-language/Foundation model
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MedRG: Medical Report Grounding with Multi-modal Large Language Model](https://arxiv.org/abs/2404.06798)
+
+**Ke Zou** *, Yang Bai*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAM-U: Multi-box Prompts Triggered Uncertainty Estimation for Reliable SAM in Medical Image](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
+
+**Ke Zou**
+</div>
+</div>
+
 ## Trustworthy Medical Image Analysis
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/NC_UIOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty-inspired open set learning for retinal anomaly identification](\https://www.nature.com/articles/s41467-023-42444-7)
 
-Meng Wang, Tian Lin, Lianyu Wang, Aidi Lin, **Ke Zou**
+Meng Wang*, Tian Lin*, Lianyu Wang*, Aidi Lin, **Ke Zou**
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Reliable Medical Image Segmentation by utilizing Evidential Calibrated Uncertainty][[Conference Paper]](https://arxiv.org/abs/2206.09309)  [[code]](https://github.com/Cocofeat/TBraTS)[[Journal Paper]](https://arxiv.org/abs/2301.00349)[[code]](https://github.com/Cocofeat/DEviS)
+
+**Ke Zou**, Yidi Chen, Ling Huang, Xuedong Yuan, Xiaojing Shen, Meng Wang, Rick Siow Mong Goh, Yong Liu, Huazhu Fu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 Early Accept</div><img src='images/MICCAI_EyeMoSt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_56)[EyeMoSt+/EyeMoSt Codes](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924)
+
+**Ke Zou**, Tian Lin*, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/MICCAI_UMML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_4)
+
+Kai Ren*, **Ke Zou** *, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Meng Wang, Huazhu Fu
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - 2021.12 – Outstanding Graduate Thesis of Chongqing
