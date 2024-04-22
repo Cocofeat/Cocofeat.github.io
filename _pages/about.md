@@ -122,6 +122,11 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 - *2017.09 - 2020.06*, M.S, Chongqing University of Posts and Telecomunications.
 
 # 💻 Experiences and Projects
+
+## Experiences
+
+- *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Principal Scientist: Huazhu Fu](https://hzfu.github.io/).
+
 ## Projects
 
 - *2019.04 - 2020.04*, Chongqing Postgraduate Research and Innovation Project, Multi-vehicle Lidar Integrated Registration based on Variational Bayesian under Time and Space Factors, **PI, 10,000 RMB**.
@@ -130,6 +135,3 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 - *2021.01 - 2024.12*, National Natural Science Foundation of China, Target Tracking of Intelligent Networked Vehicles under Time-varying non-Gaussian Noise and Positioning Failure in Mixed Traffic, **Key member**.
 - *2023.01 - 2024.12*, Key research and development project in Sichuan Province, research on the key problems of oral hard palate segmentation and its application in orthodontic treatment, **Key member**.
 
-## Experiences
-
-- *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Principal Scientist: Huazhu Fu](https://hzfu.github.io/).
