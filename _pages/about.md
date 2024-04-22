@@ -122,4 +122,4 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 - *2017.09 - 2020.06*, M.S, Chongqing University of Posts and Telecomunications.
 
 # 💻 Experiences
-- *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Dr. Huazhu Fu](https://hzfu.github.io/).
+- *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Principal Scientist: Huazhu Fu](https://hzfu.github.io/).
