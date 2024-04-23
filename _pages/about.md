@@ -135,3 +135,4 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 - *2021.01 - 2024.12*, National Natural Science Foundation of China, Target Tracking of Intelligent Networked Vehicles under Time-varying non-Gaussian Noise and Positioning Failure in Mixed Traffic, **Key member**.
 - *2023.01 - 2024.12*, Key research and development project in Sichuan Province, research on the key problems of oral hard palate segmentation and its application in orthodontic treatment, **Key member**.
 
+<a href="https://info.flagcounter.com/W6Uo"><img src="https://s01.flagcounter.com/count2/W6Uo/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
