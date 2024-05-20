@@ -30,6 +30,7 @@ I'm currently pursuing the Ph.D. degree with the National Key Laboratory of Fund
 
 
 # 🔥 News
+- [05/2024] One paper about "Confidence-aware multi-modality learning for eye disease screening" was accepted by **MedIA** [[EyeMoSt+/EyeMoSt Codes]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924).
 - [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
 - [07/2023] One paper about "A review of uncertainty estimation and its application in medical imaging" was accepted by **Meta-Radiology**.  [[pdf]](https://www.sciencedirect.com/science/article/pii/S2950162823000036)
 - [06/2023] One paper about "Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation" was accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.09790) [[code]](https://github.com/Cocofeat/UML/)
@@ -51,7 +52,7 @@ Meng Wang\*, Tian Lin\*, Lianyu Wang\*, Aidi Lin, **Ke Zou**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022, MIA submission</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022, IEEE TCyber submission</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Reliable Medical Image Segmentation by utilizing Evidential Calibrated Uncertainty][[Conference]](https://arxiv.org/abs/2206.09309) [[Code]](https://github.com/Cocofeat/TBraTS)[[Journal]](https://arxiv.org/abs/2301.00349)[[Code]](https://github.com/Cocofeat/DEviS)
@@ -60,7 +61,7 @@ Meng Wang\*, Tian Lin\*, Lianyu Wang\*, Aidi Lin, **Ke Zou**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 Early Accept, MIA submission</div><img src='images/MICCAI_EyeMoSt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 Early Accept, MedIA</div><img src='images/MICCAI_EyeMoSt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reliable Multimodality Eye Disease Screening via Mixture of Student's t Distributions](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_56)[[EyeMoSt+/EyeMoSt Codes]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924)
