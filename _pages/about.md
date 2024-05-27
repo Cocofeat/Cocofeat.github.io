@@ -30,6 +30,7 @@ I'm currently pursuing the Ph.D. degree with the National Key Laboratory of Fund
 
 
 # 🔥 News
+- [05/2024] I have passed my Ph.D. defense, glad to be **Dr. Zou**.
 - [05/2024] One paper about "Confidence-aware multi-modality learning for eye disease screening" was accepted by **MedIA** [[Code]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924).
 - [05/2024] Two papers about "Reliable domain adaption" and "Semi-supervised segmentation" were early accepted by **MICCAI2024**.
 - [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
