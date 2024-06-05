@@ -115,6 +115,7 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 - Journal Reviewer: ***IEEE TMI***, ***Signal Processing***, ***IEEE TAI***, ***IEEE JBHI***, ***IEEE Access***
 
 # 💬 Talks and Presentations
+- *2024.06*, Ph.D. graduation defense sharing, University of Electronic Science and Technology of China, invited by [Prof. Ping Zhang](https://faculty.uestc.edu.cn/zhangping/zh_CN/index.htm).
 - *2024.04*, AIxMed Biweekly Seminar, curated by the MGH/HMS Center for Advanced Medical Computing and Analysis (CAMCA), invited by [Prof. Xiang Li](https://xiangli-shaun.github.io/).
 - *2023.12*, Central China Normal University Nanhu Forum academic exchange report, curated by School of Computer Science, Central China Normal University, invited by [Prof. Yutao Ma](https://cs.ccnu.edu.cn/info/1109/2702.htm).
 - *2023.11*, The Third Graduate Academic Forum, curated by Chinese Journal of Graphics and Images.
