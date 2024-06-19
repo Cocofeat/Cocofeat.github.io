@@ -20,7 +20,7 @@ redirect_from:
 I'm currently pursuing the Ph.D. degree with the National Key Laboratory of Fundamental Science on Synthetic Vision, the College of Computer Science, Sichuan University, co-advised by [Prof. Xiaojing Shen](https://math.scu.edu.cn/info/1013/5806.htm) and [Prof. Xuedong Yuan](https://cs.scu.edu.cn/info/1359/17827.htm). He was sponsored by the China Scholarship Council (CSC) and participated in a joint doctoral training program at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of [Principal Scientist: Huazhu Fu](https://hzfu.github.io/). 
 
 - 👯 I'm looking to collaborate on __Trustworthy multi-modality learning__ with uncertainty estimation.
-- ⚡ I'm seeking __Postdoc/Research fellow__ position in 2024.
+- ⚡ I'm seeking to collaborate on __Foundation model__.
 
 ****
 ## His research focuses on: 
