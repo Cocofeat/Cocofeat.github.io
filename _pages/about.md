@@ -77,7 +77,7 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 </div>
 
 ## Vision-language/Foundation model
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024 Submission</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv Submission</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MedRG: Medical Report Grounding with Multi-modal Large Language Model](https://arxiv.org/abs/2404.06798)
