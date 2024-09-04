@@ -37,9 +37,6 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 - [05/2024] One paper about "Confidence-aware multi-modality learning for eye disease screening" was accepted by **MedIA** [[Code]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924).
 - [05/2024] Two papers about "Reliable domain adaption" and "Semi-supervised segmentation" were early accepted by **MICCAI2024**.
 - [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
-- [07/2023] One paper about "A review of uncertainty estimation and its application in medical imaging" was accepted by **Meta-Radiology**.  [[pdf]](https://www.sciencedirect.com/science/article/pii/S2950162823000036)
-- [06/2023] One paper about "Uncertainty-informed Mutual Learning for Joint Medical Image Classification and Segmentation" was accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.09790) [[code]](https://github.com/Cocofeat/UML/)
-- [06/2023] One paper about "Multi-modality learning with uncertainty estimation" was early accepted by **MICCAI'2023**.  [[pdf]](https://arxiv.org/abs/2303.10049) [[code]](https://github.com/Cocofeat/EyeMoSt/)
 
 # 📝 Publications (\* means co-first author)
 ## Trustworthy Medical Image Analysis
