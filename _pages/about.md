@@ -85,7 +85,6 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 **Ke Zou**#, Yang Bai#, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
 </div>
 </div>
-<!---->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
