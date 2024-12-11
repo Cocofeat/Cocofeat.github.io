@@ -30,7 +30,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 # 🔥 News
-- [10/2024] One paper accepted by **Cell Reports Medicine**: "Enhancing Al Reliability: A Foundation Model with Uncertainty Estimation for Optical Coherence Tomography based Retinal Diseases Diagnosis".
+- [10/2024] One paper accepted by **Cell Reports Medicine**: "Enhancing Al Reliability: A Foundation Model with Uncertainty Estimation for Optical Coherence Tomography based Retinal Diseases Diagnosis"[[arxiv]](https://arxiv.org/pdf/2406.16942).
 - [09/2024] Our paper **MedSAM-U** on MedSAM with uncertainty-guided auto adaptation is available on [[arxiv]](https://arxiv.org/abs/2409.00924).
 - [06/2024] One paper about "Reliable Federated Disentangling Network for Non-IID Domain Feature" was accepted by **IEEE Transactions on Big Data**.
 - [06/2024] One paper about "Reliable Segmentation of Multiple Lesions from Medical Image" was accepted by **Medical Physics**.
