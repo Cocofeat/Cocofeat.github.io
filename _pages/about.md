@@ -115,7 +115,7 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 # 🗣 Activities
 ## Reviewers
 - Conference Reviewer: ***FUSION2022***, ***ICASSP2023, ICASSP2024***, ***MIDL2023, MIDL2024***, ***MICCAI2023, MICCAI2024***, ***ICIP2023, ICIP2024***
-- Journal Reviewer: ***IEEE TMI***, ***Signal Processing***, ***IEEE TAI***, ***IEEE JBHI***, ***IEEE Access***
+- Journal Reviewer: ***IEEE TMI***, ***Signal Processing***,***Pattern Recognition***, ***IEEE TAI***, ***IEEE JBHI***, ***IEEE Access***
 
 # 💬 Talks and Presentations
 - *2024.06*, Ph.D. graduation defense sharing, University of Electronic Science and Technology of China, invited by [Prof. Ping Zhang](https://sose.uestc.edu.cn/info/1022/1981.htm).
