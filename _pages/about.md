@@ -81,7 +81,7 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv Submission</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MedRG: Medical Report Grounding with Multi-modal Large Language Model](https://arxiv.org/abs/2404.06798)
+[MedRG: Medical Report Grounding with Multi-modal Large Language Model][[arxiv]](https://arxiv.org/abs/2404.06798)[[Code]](https://github.com/Cocofeat/uMedGround)
 
 **Ke Zou**#, Yang Bai#, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
 </div>
