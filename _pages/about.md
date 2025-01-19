@@ -30,7 +30,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 # 🔥 News
-- [01/2025] Happy New Year! Glad to be the MICCAI2025 AC, Thanks for the MICCAI community. Make it great!).
+- [01/2025] Happy New Year! Glad to be the **MICCAI2025 AC**, Thanks for the MICCAI community. Make it great!).
 - [12/2024] One paper accepted by **IEEE TMI**: "Training-free image style alignment for domain shift on handheld ultrasound devices"[[Link]](https://ieeexplore.ieee.org/document/10813622).
 - [10/2024] One paper accepted by **Cell Reports Medicine**: "Enhancing Al Reliability: A Foundation Model with Uncertainty Estimation for Optical Coherence Tomography based Retinal Diseases Diagnosis"[[Link]](https://www.sciencedirect.com/science/article/pii/S2666379124006475)(https://arxiv.org/pdf/2406.16942).
 - [09/2024] Our paper **MedSAM-U** on MedSAM with uncertainty-guided auto adaptation is available on [[arxiv]](https://arxiv.org/abs/2409.00924).
@@ -115,6 +115,8 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 - 2015.11 – National Scholarship (1%)
 
 # 🗣 Activities
+## Area Chair
+- ***MICCAI 2025***
 ## Reviewers
 - Conference Reviewer: ***FUSION2022***, ***ICASSP2023, ICASSP2024***, ***MIDL2023, MIDL2024***, ***MICCAI2023, MICCAI2024***, ***ICIP2023, ICIP2024***
 - Journal Reviewer: ***IEEE TMI***, ***Signal Processing***,***Pattern Recognition***, ***IEEE TAI***, ***IEEE JBHI***, ***IEEE Access***
