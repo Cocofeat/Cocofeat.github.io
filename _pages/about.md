@@ -30,7 +30,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 # 🔥 News
-- [01/2025] One paer accepted by **NAACL2025**: "LMOD:ALargeMultimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models"[[Link]](https://arxiv.org/pdf/2410.01620), Congrats to Zhenyue and Prof. Qingyu! 
+- [01/2025] One paer accepted by **NAACL2025**: "LMOD:A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models"[[Link]](https://arxiv.org/pdf/2410.01620), Congrats to Zhenyue and Prof. Qingyu! 
 - [01/2025] Happy New Year! Glad to be the **MICCAI2025 AC**, Thanks for the MICCAI community. Make it great!
 - [12/2024] One paper accepted by **IEEE TMI**: "Training-free image style alignment for domain shift on handheld ultrasound devices"[[Link]](https://ieeexplore.ieee.org/document/10813622), Congrats to Hongye!
 - [10/2024] One paper accepted by **Cell Reports Medicine**: "Enhancing Al Reliability: A Foundation Model with Uncertainty Estimation for Optical Coherence Tomography based Retinal Diseases Diagnosis"[[Link]](https://www.sciencedirect.com/science/article/pii/S2666379124006475)(https://arxiv.org/pdf/2406.16942).
