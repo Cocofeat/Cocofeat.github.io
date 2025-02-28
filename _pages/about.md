@@ -30,7 +30,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 # 🔥 News
-- [02/2025] Happy to get the **ARVO Travel award**, Thanks for the ARVO community!
+- [02/2025] Happy to get the **ARVO2025 Travel award**, Thanks for the ARVO community!
 - [02/2025] Glad to be the **IEEE ATC 2025 WC**, Thanks for the community. Welcome the submissions! [[Link]](https://ieee-swc-2025.github.io/atc/)
 - [01/2025] One paer accepted by **NAACL2025**: "LMOD:A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models"[[Link]](https://arxiv.org/pdf/2410.01620), Congrats to Zhenyue and Prof. Qingyu! 
 - [01/2025] Happy New Year! Glad to be the **MICCAI2025 AC**, Thanks for the MICCAI community. Make it great!
