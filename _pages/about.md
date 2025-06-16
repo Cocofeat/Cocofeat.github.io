@@ -30,6 +30,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 # 🔥 News
+- [05/2025] One paer accepted by **Nature Communications**: "Enhancing Diagnostic Accuracy in Rare and Common Fundus Diseases with a Knowledge-Rich Vision-Language Model", Congrats to Meng, my visiting Ph.D. supervisor H. Fu, and Prof. Cheng! !
 - [02/2025] Happy to get the **ARVO2025 Travel award**, Thanks for the ARVO community!
 - [02/2025] Glad to be the **IEEE ATC 2025 WC**, Thanks for the community. Welcome the submissions! [[Link]](https://ieee-swc-2025.github.io/atc/)
 - [01/2025] One paer accepted by **NAACL2025**: "LMOD:A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models"[[Link]](https://arxiv.org/pdf/2410.01620), Congrats to Zhenyue and Prof. Qingyu! 
