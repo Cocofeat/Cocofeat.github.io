@@ -21,7 +21,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 - 👯 I'm looking to collaborate on __Trustworthy multi-modality learning__ with uncertainty estimation.
 - ⚡ I'm seeking to research on __Vision Language model__ and __Foundation model__.
-
+- 🔥 I'm guesting a special issue of Fostering Trustworthy Artificial Intelligence in Medical Imaging in the journal of **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
 ****
 ## His research focuses on: 
 * 🔥 **AI+ Healthcare**: Medical image analysis, uncertainty estimation, multi-modal learning，vision-language model.
@@ -32,6 +32,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 # 🔥 News
 - [06/2025] One correspondence paer accepted by **Nature Medicine**, Congrats to the Whole Global RETFound team ! ! !
 - [06/2025] One paer accepted by **ICCV 2025**: "GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis"[[Paper]](https://arxiv.org/pdf/2406.09317)[[Link]](https://www.med-vqa.com/GEMeX/), Congrats to Bo ! !
+- [06/2025] I am pleased to serve as a Guest Editor for the upcoming Research Topic “Fostering Trustworthy Artificial Intelligence in Medical Imaging” in **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
 - [05/2025] One paer accepted by **Nature Communications**: "Enhancing Diagnostic Accuracy in Rare and Common Fundus Diseases with a Knowledge-Rich Vision-Language Model"[[Link]](https://arxiv.org/pdf/2406.09317), Congrats to Meng, my visiting Ph.D. supervisor H. Fu, and Prof. Cheng! !
 - [02/2025] Happy to get the **ARVO2025 Travel award**, Thanks for the ARVO community!
 - [02/2025] Glad to be the **IEEE ATC 2025 WC**, Thanks for the community. Welcome the submissions! [[Link]](https://ieee-swc-2025.github.io/atc/)
