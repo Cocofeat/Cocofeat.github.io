@@ -21,7 +21,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 - 👯 I'm looking to collaborate on __Trustworthy multi-modality learning__ with uncertainty estimation.
 - ⚡ I'm seeking to research on __Vision Language model__ and __Foundation model__.
-- 🔥 I'm guesting a special issue of Fostering Trustworthy Artificial Intelligence in Medical Imaging in the journal of **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
+- 🔥 Welcome your excellent manuscript! I'm guesting a special issue of Fostering Trustworthy Artificial Intelligence in Medical Imaging in the journal of **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
 ****
 ## His research focuses on: 
 * 🔥 **AI+ Healthcare**: Medical image analysis, uncertainty estimation, multi-modal learning，vision-language model.
