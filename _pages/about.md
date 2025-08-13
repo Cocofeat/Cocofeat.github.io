@@ -33,6 +33,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 - [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**.
 - [08/2025] My first key paper "Uncertainty-aware Medical Diagnostic Phrase
 Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-ready paper are coming soon. Thanks all my Collaborators ! ! !
+-[07/2025] One paper "Ophthalmological Question Answering and Reasoning Using OpenAI o1 vs Other Large Language Models" was accepted by **JAMA ophthalmology**.
 - [06/2025] One correspondence paer accepted by **Nature Medicine**, Congrats to the Whole Global RETFound team ! ! !
 - [06/2025] One paer accepted by **ICCV 2025**: "GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis"[[Paper]](https://arxiv.org/abs/2411.16778)[[Link]](https://www.med-vqa.com/GEMeX/), Congrats to Bo ! !
 - [06/2025] two paers accepted by **MICCAI 2025**: "Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering"[[Paper]](https://arxiv.org/pdf/2406.09317) and "RIFNet: Bridging Modalities for Accurate and Detailed Ocular Disease Analysis", Congrats to Zehui and Qingshan ! !
