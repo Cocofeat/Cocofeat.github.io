@@ -30,6 +30,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 # 🔥 News
+- [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**. Congrats to Prof Xiaofei and Zhuxin.
 - [08/2025] My first key paper "Uncertainty-aware Medical Diagnostic Phrase
 Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-ready paper are coming soon. Thanks all my Collaborators ! ! !
 - [06/2025] One correspondence paer accepted by **Nature Medicine**, Congrats to the Whole Global RETFound team ! ! !
