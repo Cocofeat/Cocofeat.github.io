@@ -30,7 +30,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 ## 🔥 News
-- [08/2025] My paper <strong>"Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
+- [08/2025] My paper "Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
 - [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**.
 - [08/2025] My first key paper "Uncertainty-aware Medical Diagnostic Phrase
 Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-ready paper are coming soon. ([link](https://ieeexplore.ieee.org/abstract/document/11119420)) Thanks all my Collaborators ! ! !
