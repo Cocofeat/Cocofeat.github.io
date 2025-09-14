@@ -84,6 +84,25 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 </div>
 </div>
 
+## Hallucination with Agemts/VLM
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 workshop</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[EH-Benchmark: Ophthalmic hallucination benchmark and agent-driven top-down traceable reasoning workflow](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007031)
+
+Xiaoyu Pan, Yang Bai, **Ke Zou**, Yang Zhou, Jun Zhou, Huazhu Fu, Yih-Chung Tham, Yong Liu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering][[Paper]](https://arxiv.org/abs/2503.20504)[[Code]](https://github.com/Merrical/VASE)
+
+Zehui Liao\*, Shishuai Hu\*, **Ke Zou**, Huazhu Fu, Liangli Zhen*, and Yong Xia*
+</div>
+</div>
+
 ## Trustworthy Medical Image Analysis
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022, IEEE TCyber</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
