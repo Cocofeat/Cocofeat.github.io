@@ -55,22 +55,52 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 - [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
 
 # 📝 Publications (\* means co-first author)
+
+## Vision-language/Foundation model
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncertainty-aware Medical Diagnostic Phrase Identification and Grounding][[IEEE]](https://ieeexplore.ieee.org/abstract/document/11119420/)[[arxiv]](https://arxiv.org/abs/2404.06798)[[Code]](https://github.com/Cocofeat/uMedGround)
+
+**Ke Zou**\*, Yang Bai\*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Xiaochun Cao, Yih Chung Tham, Huazhu Fu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM](https://arxiv.org/pdf/2409.00924)
+
+Nan Zhou\*, **Ke Zou**\*, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Chen, Yi Zhang, Hu Chen, Huazhu Fu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 workshop</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[SAM-U: Multi-box Prompts Triggered Uncertainty Estimation for Reliable SAM in Medical Image](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
+
+Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu
+</div>
+</div>
+
 ## Trustworthy Medical Image Analysis
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022, IEEE TCyber</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Reliable Medical Image Segmentation by utilizing Evidential Calibrated Uncertainty][[Conference]](https://arxiv.org/abs/2206.09309) [[Code]](https://github.com/Cocofeat/TBraTS)[[Journal]](https://arxiv.org/abs/2301.00349)[[Code]](https://github.com/Cocofeat/DEviS)
+
+**Ke Zou**, Yidi Chen, Ling Huang, Xuedong Yuan, Xiaojing Shen, Meng Wang, Rick Siow Mong Goh, Yong Liu, Huazhu Fu
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2023</div><img src='images/NC_UIOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty-inspired open set learning for retinal anomaly identification](\https://www.nature.com/articles/s41467-023-42444-7)
 
 Meng Wang\*, Tian Lin\*, Lianyu Wang\*, Aidi Lin, **Ke Zou**, et al.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022, IEEE TCyber submission</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Reliable Medical Image Segmentation by utilizing Evidential Calibrated Uncertainty][[Conference]](https://arxiv.org/abs/2206.09309) [[Code]](https://github.com/Cocofeat/TBraTS)[[Journal]](https://arxiv.org/abs/2301.00349)[[Code]](https://github.com/Cocofeat/DEviS)
-
-**Ke Zou**, Yidi Chen, Ling Huang, Xuedong Yuan, Xiaojing Shen, Meng Wang, Rick Siow Mong Goh, Yong Liu, Huazhu Fu
 </div>
 </div>
 
@@ -92,33 +122,6 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 </div>
 </div>
 
-## Vision-language/Foundation model
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv Submission</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MedRG: Medical Report Grounding with Multi-modal Large Language Model][[arxiv]](https://arxiv.org/abs/2404.06798)[[Code]](https://github.com/Cocofeat/uMedGround)
-
-**Ke Zou**\*, Yang Bai\*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM](https://arxiv.org/pdf/2409.00924)
-
-Nan Zhou\*, **Ke Zou**\*, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Chen, Yi Zhang, Hu Chen, Huazhu Fu
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 workshop</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[SAM-U: Multi-box Prompts Triggered Uncertainty Estimation for Reliable SAM in Medical Image](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
-
-Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - 2021.12 – Outstanding Graduate Thesis of Chongqing
