@@ -71,7 +71,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 
 [Building the world’s first truly global medical foundation model][[Paper]](https://www.nature.com/articles/s41591-025-03859-5)
 
-**Ke Zou**\*, Yang Bai\*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Xiaochun Cao, Yih Chung Tham, Huazhu Fu
+Yih Chung Tham, Jocelyn Hui Lin Goh, ..., **Ke Zou**, Carol Y Cheung, Pearse A Keane
 </div>
 </div>
 
