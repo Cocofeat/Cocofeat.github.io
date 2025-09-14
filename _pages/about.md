@@ -29,30 +29,34 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 * **Intelligent Vehicle**: Track2track association, multi-sensor fusion (lidar and camera).
 
 
-# 🔥 News
-- [08/2025] My paper "Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
-- [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**.
-- [08/2025] My first key paper "Uncertainty-aware Medical Diagnostic Phrase
+<div style="max-height:200px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+<h3>🔥 News</h3>
+<ul>
+<li> [08/2025] My paper "Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
+<li> [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**.
+<li> [08/2025] My first key paper "Uncertainty-aware Medical Diagnostic Phrase
 Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-ready paper are coming soon. ([link](https://ieeexplore.ieee.org/abstract/document/11119420)) Thanks all my Collaborators ! ! !
-- [07/2025] One paper "Ophthalmological Question Answering and Reasoning Using OpenAI o1 vs Other Large Language Models" was accepted by **JAMA ophthalmology**.
-- [06/2025] One correspondence paer accepted by **Nature Medicine**, Congrats to the Whole Global RETFound team ! ! !
-- [06/2025] One paer accepted by **ICCV 2025**: "GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis"[[Paper]](https://arxiv.org/abs/2411.16778)[[Link]](https://www.med-vqa.com/GEMeX/), Congrats to Bo ! !
-- [06/2025] Two paers accepted by **MICCAI 2025**: "Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering"[[Paper]](https://arxiv.org/pdf/2406.09317) and "RIFNet: Bridging Modalities for Accurate and Detailed Ocular Disease Analysis", Congrats to Zehui and Qingshan ! !
-- [06/2025] I am pleased to serve as a Guest Editor for the upcoming Research Topic “Fostering Trustworthy Artificial Intelligence in Medical Imaging” in **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
-- [05/2025] One paer accepted by **Nature Communications**: "Enhancing Diagnostic Accuracy in Rare and Common Fundus Diseases with a Knowledge-Rich Vision-Language Model"[[Link]](https://arxiv.org/pdf/2406.09317), Congrats to Meng, my visiting Ph.D. supervisor H. Fu, and Prof. Cheng! !
-- [02/2025] Happy to get the **ARVO2025 Travel award**, Thanks for the ARVO community!
-- [02/2025] Glad to be the **IEEE ATC 2025 WC**, Thanks for the community. Welcome the submissions! [[Link]](https://ieee-swc-2025.github.io/atc/)
-- [01/2025] One paer accepted by **NAACL2025**: "LMOD:A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models"[[Link]](https://arxiv.org/pdf/2410.01620), Congrats to Zhenyue and Prof. Qingyu! 
-- [01/2025] Happy New Year! Glad to be the **MICCAI2025 AC**, Thanks for the MICCAI community. Make it great!
-- [12/2024] One paper accepted by **IEEE TMI**: "Training-free image style alignment for domain shift on handheld ultrasound devices"[[Link]](https://ieeexplore.ieee.org/document/10813622), Congrats to Hongye!
-- [10/2024] One paper accepted by **Cell Reports Medicine**: "Enhancing Al Reliability: A Foundation Model with Uncertainty Estimation for Optical Coherence Tomography based Retinal Diseases Diagnosis"[[Link]](https://www.sciencedirect.com/science/article/pii/S2666379124006475)(https://arxiv.org/pdf/2406.16942).
-- [09/2024] Our paper **MedSAM-U** on MedSAM with uncertainty-guided auto adaptation is available on [[arxiv]](https://arxiv.org/abs/2409.00924).
-- [06/2024] One paper about "Reliable Federated Disentangling Network for Non-IID Domain Feature" was accepted by **IEEE Transactions on Big Data**.
-- [06/2024] One paper about "Reliable Segmentation of Multiple Lesions from Medical Image" was accepted by **Medical Physics**.
-- [05/2024] I have passed my Ph.D. defense, glad to be **Dr. Zou**.
-- [05/2024] One paper about "Confidence-aware multi-modality learning for eye disease screening" was accepted by **MedIA** [[Code]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924).
-- [05/2024] Two papers about "Reliable domain adaption" and "Semi-supervised segmentation" were early accepted by **MICCAI2024** (One Spotlight).
-- [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
+<li> [07/2025] One paper "Ophthalmological Question Answering and Reasoning Using OpenAI o1 vs Other Large Language Models" was accepted by **JAMA ophthalmology**.
+<li> [06/2025] One correspondence paer accepted by **Nature Medicine**, Congrats to the Whole Global RETFound team ! ! !
+<li> [06/2025] One paer accepted by **ICCV 2025**: "GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis"[[Paper]](https://arxiv.org/abs/2411.16778)[[Link]](https://www.med-vqa.com/GEMeX/), Congrats to Bo ! !
+<li> [06/2025] Two paers accepted by **MICCAI 2025**: "Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering"[[Paper]](https://arxiv.org/pdf/2406.09317) and "RIFNet: Bridging Modalities for Accurate and Detailed Ocular Disease Analysis", Congrats to Zehui and Qingshan ! !
+<li> [06/2025] I am pleased to serve as a Guest Editor for the upcoming Research Topic “Fostering Trustworthy Artificial Intelligence in Medical Imaging” in **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
+<li> [05/2025] One paer accepted by **Nature Communications**: "Enhancing Diagnostic Accuracy in Rare and Common Fundus Diseases with a Knowledge-Rich Vision-Language Model"[[Link]](https://arxiv.org/pdf/2406.09317), Congrats to Meng, my visiting Ph.D. supervisor H. Fu, and Prof. Cheng! !
+<li> [02/2025] Happy to get the **ARVO2025 Travel award**, Thanks for the ARVO community!
+<li> [02/2025] Glad to be the **IEEE ATC 2025 WC**, Thanks for the community. Welcome the submissions! [[Link]](https://ieee-swc-2025.github.io/atc/)
+<li> [01/2025] One paer accepted by **NAACL2025**: "LMOD:A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models"[[Link]](https://arxiv.org/pdf/2410.01620), Congrats to Zhenyue and Prof. Qingyu! 
+<li> [01/2025] Happy New Year! Glad to be the **MICCAI2025 AC**, Thanks for the MICCAI community. Make it great!
+<li> [12/2024] One paper accepted by **IEEE TMI**: "Training-free image style alignment for domain shift on handheld ultrasound devices"[[Link]](https://ieeexplore.ieee.org/document/10813622), Congrats to Hongye!
+<li> [10/2024] One paper accepted by **Cell Reports Medicine**: "Enhancing Al Reliability: A Foundation Model with Uncertainty Estimation for Optical Coherence Tomography based Retinal Diseases Diagnosis"[[Link]](https://www.sciencedirect.com/science/article/pii/S2666379124006475)(https://arxiv.org/pdf/2406.16942).
+<li> [09/2024] Our paper **MedSAM-U** on MedSAM with uncertainty-guided auto adaptation is available on [[arxiv]](https://arxiv.org/abs/2409.00924).
+<li> [06/2024] One paper about "Reliable Federated Disentangling Network for Non-IID Domain Feature" was accepted by **IEEE Transactions on Big Data**.
+<li> [06/2024] One paper about "Reliable Segmentation of Multiple Lesions from Medical Image" was accepted by **Medical Physics**.
+<li> [05/2024] I have passed my Ph.D. defense, glad to be **Dr. Zou**.
+<li> [05/2024] One paper about "Confidence-aware multi-modality learning for eye disease screening" was accepted by **MedIA** [[Code]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924).
+<li> [05/2024] Two papers about "Reliable domain adaption" and "Semi-supervised segmentation" were early accepted by **MICCAI2024** (One Spotlight).
+<li> [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
+</ul>
+</div>
 
 # 📝 Publications (\* means co-first author)
 
