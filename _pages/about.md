@@ -57,7 +57,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 
 # 📝 Selected Publications (\* means co-first author)
 
-## MLLMs/FM
+## Explainable VLM with Grounding/FM for ophthalmology
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/uMedGround.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,6 +66,15 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 **Ke Zou**\*, Yang Bai\*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Xiaochun Cao, Yih Chung Tham, Huazhu Fu
 </div>
 </div>
+
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/GeMeX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis][[Paper]](https://arxiv.org/abs/2411.16778)[[Code]](https://www.med-vqa.com/GEMeX/)
+Bo Liu, **Ke Zou**, Liming Zhan, Zexin Lu, Xiaoyu Dong, Yidi Chen, Chengqiang Xie, Jiannong Cao, Xiao-Ming Wu, Huazhu Fu
+</div>
+</div>
+
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Medicine 2025</div><img src='images/global_FM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
