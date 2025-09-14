@@ -29,8 +29,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 * **Intelligent Vehicle**: Track2track association, multi-sensor fusion (lidar and camera).
 
 
-<div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px; white-space:pre-wrap; word-wrap:break-word;">
-  
+<div style="height:200px; overflow-y:scroll; border:1px solid #ccc; padding:10px; white-space:pre-wrap; word-wrap:break-word;">
 ### 🔥 News
 - [08/2025] My paper "Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
 - [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**.
