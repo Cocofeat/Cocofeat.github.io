@@ -71,6 +71,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 <div class='paper-box-text' markdown="1">
 
 [GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis][[Paper]](https://arxiv.org/abs/2411.16778)[[Code]](https://www.med-vqa.com/GEMeX/)
+
 Bo Liu, **Ke Zou**, Liming Zhan, Zexin Lu, Xiaoyu Dong, Yidi Chen, Chengqiang Xie, Jiannong Cao, Xiao-Ming Wu, Huazhu Fu
 </div>
 </div>
