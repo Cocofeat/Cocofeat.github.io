@@ -30,8 +30,9 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 <div style="height:200px; overflow-y:scroll; border:1px solid #ccc; padding:10px; white-space:pre-wrap; word-wrap:break-word;">
-### 🔥 News
-- [08/2025] My paper "Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
+<h3>🔥 News</h3
+<ul>>
+- [08/2025] My paper <strong>"Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty "<strong> was accepted by <strong>**IEEE Transactions on Cybernetics**<strong>. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
 - [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**.
 - [08/2025] My first key paper "Uncertainty-aware Medical Diagnostic Phrase
 Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-ready paper are coming soon. ([link](https://ieeexplore.ieee.org/abstract/document/11119420)) Thanks all my Collaborators ! ! !
@@ -54,7 +55,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 - [05/2024] One paper about "Confidence-aware multi-modality learning for eye disease screening" was accepted by **MedIA** [[Code]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924).
 - [05/2024] Two papers about "Reliable domain adaption" and "Semi-supervised segmentation" were early accepted by **MICCAI2024** (One Spotlight).
 - [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
-
+</ul>
 </div>
 
 # 📝 Selected Publications (\* means co-first author)
