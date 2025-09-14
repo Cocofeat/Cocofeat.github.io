@@ -75,7 +75,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT submission</div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM](https://arxiv.org/pdf/2409.00924)
