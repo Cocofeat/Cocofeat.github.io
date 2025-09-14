@@ -19,8 +19,8 @@ redirect_from:
 
 I am a Research Fellow at National University of Singapore, under the supervision of [PYP Assistant Professor: Tham Yih Chung](https://discovery.nus.edu.sg/16620-yih-chung-tham/publications). I received my Ph.D. from the National Key Laboratory of Fundamental Science on Synthetic Vision, the College of Computer Science, Sichuan University, co-advised by [Prof. Xiaojing Shen](https://math.scu.edu.cn/info/1013/5806.htm) and [Prof. Xuedong Yuan](https://cs.scu.edu.cn/info/1359/17827.htm). I was a visiting Ph.D. student at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of [Principal Scientist: Huazhu Fu](https://hzfu.github.io/). 
 
-- 👯 I'm looking to collaborate on __Trustworthy multi-modality learning__ with uncertainty estimation.
-- ⚡ I'm seeking to research on __Vision Language model__ and __Foundation model__.
+- 👯 I'm looking to collaborate on __Trustworthy multi-modality learning__ with uncertainty estimation, __Explainable VLM with Grounding__, and __Hallucination and Fairness in VLM__. 
+- ⚡ I'm seeking to research on __Medical Agents__, __Vision Language model__ and __Foundation model__.
 - 🔥 Welcome your excellent manuscript! I'm guesting a special issue of Fostering Trustworthy Artificial Intelligence in Medical Imaging in the journal of **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
 ****
 ## His research focuses on: 
