@@ -66,7 +66,16 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 </div>
 </div>
 
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/FusionFM.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Medicine 2025</div><img src='images/global_FM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Building the world’s first truly global medical foundation model][[Paper]](https://www.nature.com/articles/s41591-025-03859-5)
+
+**Ke Zou**\*, Yang Bai\*, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Xiaochun Cao, Yih Chung Tham, Huazhu Fu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/FusionFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FusionFM: Fusing Eye-specific Foundational Models for Optimized Ophthalmic Diagnosis][[Paper]](https://arxiv.org/abs/2508.11721)
