@@ -58,7 +58,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 
 </div>
 
-# 📝 Publications (\* means co-first author)
+# 📝 Selected Publications (\* means co-first author)
 
 ## MLLMs/FM
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/uMedGround.png' alt="sym" width="100%"></div></div>
