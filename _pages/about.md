@@ -66,6 +66,15 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 </div>
 </div>
 
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/FusionFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FusionFM: Fusing Eye-specific Foundational Models for Optimized Ophthalmic Diagnosis][[Paper]](https://arxiv.org/abs/2508.11721)
+
+**Ke Zou**\*, Jocelyn Hui Lin Goh\*, Yukun Zhou\*, Tian Lin\*, Samantha Min Er Yew, Sahana Srinivasan, Meng Wang, Rui Santos, Gabor M. Somfai, Huazhu Fu, Haoyu Chen, Pearse A. Keane, Ching-Yu Cheng, Yih Chung Tham
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
