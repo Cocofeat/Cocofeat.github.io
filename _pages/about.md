@@ -102,7 +102,7 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 </div>
 </div>
 
-## Hallucination detection with Agents/VLM
+## Hallucination detection with Agents/MLLMs
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/Eh-benchmark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
