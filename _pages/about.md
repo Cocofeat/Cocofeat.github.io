@@ -29,7 +29,6 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 * **Intelligent Vehicle**: Track2track association, multi-sensor fusion (lidar and camera).
 
 
-<div style="height:200px; overflow-y:scroll; border:1px solid #ccc; padding:10px; white-space:pre-wrap; word-wrap:break-word;">
 ## 🔥 News
 - [08/2025] My paper <strong>"Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
 - [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**.
@@ -54,7 +53,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 - [05/2024] One paper about "Confidence-aware multi-modality learning for eye disease screening" was accepted by **MedIA** [[Code]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924).
 - [05/2024] Two papers about "Reliable domain adaption" and "Semi-supervised segmentation" were early accepted by **MICCAI2024** (One Spotlight).
 - [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
-</div>
+
 
 # 📝 Selected Publications (\* means co-first author)
 
