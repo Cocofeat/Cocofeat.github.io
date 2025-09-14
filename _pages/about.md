@@ -57,7 +57,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 # 📝 Publications (\* means co-first author)
 
 ## Vision-language/Foundation model
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/MICCAI_MRG.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/uMedGround.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty-aware Medical Diagnostic Phrase Identification and Grounding][[IEEE]](https://ieeexplore.ieee.org/abstract/document/11119420/)[[arxiv]](https://arxiv.org/abs/2404.06798)[[Code]](https://github.com/Cocofeat/uMedGround)
@@ -85,7 +85,7 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 </div>
 
 ## Hallucination with Agemts/VLM
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/VASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [EH-Benchmark: Ophthalmic hallucination benchmark and agent-driven top-down traceable reasoning workflow] [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007031)[[Code]](https://github.com/ppxy1/EH-Benchmark)
@@ -94,7 +94,7 @@ Xiaoyu Pan, Yang Bai, **Ke Zou**, Yang Zhou, Jun Zhou, Huazhu Fu, Yih-Chung Tham
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/Eh-benchmark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering][[Paper]](https://arxiv.org/abs/2503.20504)[[Code]](https://github.com/Merrical/VASE)
