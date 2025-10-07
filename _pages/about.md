@@ -30,6 +30,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 
 ## 🔥 News
+- [10/2025] Our paper "MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM" was accepted by **IEEE Transactions on Circuits and Systems for Video Technology**. ([link](https://arxiv.org/pdf/2409.00924)) Congrats to Nan Zhou!
 - [08/2025] My paper "Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
 - [08/2025] One perspective paper "‘Thinking’ LLMs in Medicine: Opportunities, Challenges, and the Road Ahead " was accepted by **Lancet Digital Health**.
 - [08/2025] My first key paper "Uncertainty-aware Medical Diagnostic Phrase
@@ -95,7 +96,7 @@ Yih Chung Tham, Jocelyn Hui Lin Goh, ..., **Ke Zou**, Carol Y Cheung, Pearse A K
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT submission</div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT </div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM](https://arxiv.org/pdf/2409.00924)
