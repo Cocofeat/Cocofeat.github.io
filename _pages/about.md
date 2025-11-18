@@ -186,6 +186,8 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - Journal Reviewer: ***IEEE TMI***, ***Medical Image Analysis***, ***IEEE TNNLS***, ***Signal Processing***, ***Pattern Recognition***, ***Knowledge-Based Systems***, ***IEEE TAI***, ***IEEE JBHI***
 
 # 💬 Talks and Presentations
+- *2025.10*, BEIHAI SUMMIT 2025, Beijing, China.
+- *2025.05*, ARVO2025, Salt Lake City, US.
 - *2024.06*, Ph.D. graduation defense sharing, University of Electronic Science and Technology of China, invited by [Prof. Ping Zhang](https://sose.uestc.edu.cn/info/1022/1981.htm).
 - *2024.04*, AIxMed Biweekly Seminar, curated by the MGH/HMS Center for Advanced Medical Computing and Analysis (CAMCA), invited by [Prof. Xiang Li](https://xiangli-shaun.github.io/).
 - *2023.12*, Central China Normal University Nanhu Forum academic exchange report, curated by School of Computer Science, Central China Normal University, invited by [Prof. Yutao Ma](https://cs.ccnu.edu.cn/info/1109/2702.htm).
