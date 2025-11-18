@@ -179,6 +179,9 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - 2015.11 – National Scholarship (1%)
 
 # 🗣 Activities
+## Guest Editor
+- ***IEEE JBHI***
+- ***Frontiers in Medicine***
 ## Area Chair
 - ***MICCAI 2025***
 ## Reviewers
@@ -195,23 +198,5 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - *2023.11*, The Third Graduate Academic Forum, curated by Chinese Journal of Graphics and Images.
 - *2022.08* [MICS2022](https://aim.nuist.edu.cn/events/mics2022.htm) of [TBraTS: Trusted Brain Tumor Segmentation](https://www.bilibili.com/video/BV1nW4y1a7Qp/?spm_id_from=333.337.search-card.all.click&vd_source=6ab19d355475883daafd34a6daae54a5) (**3rd Prize**)
 - *2019.07*, FUSION2019, Ottawa, Canada.
-
-# 📖 Educations
-- *2020.09 - 2024.06 (now)*, Ph.D, Sichuan University, Chengdu.
-- *2017.09 - 2020.06*, M.S, Chongqing University of Posts and Telecomunications.
-
-# 💻 Experiences and Projects
-
-## Experiences
-
-- *2022.10 - 2023.09*, Visiting student, A*STAR, Singapore, advised by [Principal Scientist: Huazhu Fu](https://hzfu.github.io/).
-
-## Projects
-
-- *2019.04 - 2020.04*, Chongqing Postgraduate Research and Innovation Project, Multi-vehicle Lidar Integrated Registration based on Variational Bayesian under Time and Space Factors, **PI, 10,000 RMB**.
-- *2021.10 - 2022.09*, Sichuan Provincial Department of Science and Technology, Cultivation Project, Joint Registration, Fusion and Segmentation of Multimodal Medical Image Based on Deep Neural Network, **PI, 30,000 RMB**.
-- *2022.10 - 2023.09*, A*STAR SERC Central Research Fund, Robust and Trustworthy AI system for Multi-modality Healthcare, **Key member**.
-- *2021.01 - 2024.12*, National Natural Science Foundation of China, Target Tracking of Intelligent Networked Vehicles under Time-varying non-Gaussian Noise and Positioning Failure in Mixed Traffic, **Key member**.
-- *2023.01 - 2024.12*, Key research and development project in Sichuan Province, research on the key problems of oral hard palate segmentation and its application in orthodontic treatment, **Key member**.
 
 <a href="http://s01.flagcounter.com/more/V8"><img src="https://s01.flagcounter.com/map/V8/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
