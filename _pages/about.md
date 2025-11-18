@@ -170,14 +170,6 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 </div>
 </div>
 
-
-# 🎖 Honors and Awards
-- 2021.12 – Outstanding Graduate Thesis of Chongqing
-- 2021.09 – Outstanding Postgraduate of Sichuan University
-- 2020.06 – Outstanding Graduate Student of Chongqing
-- 2017.06 - Outstanding Undergraduate Student of Chongqing
-- 2015.11 – National Scholarship (1%)
-
 # 🗣 Activities
 ## Guest Editor
 - ***IEEE JBHI***
@@ -198,5 +190,14 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - *2023.11*, The Third Graduate Academic Forum, curated by Chinese Journal of Graphics and Images.
 - *2022.08* [MICS2022](https://aim.nuist.edu.cn/events/mics2022.htm) of [TBraTS: Trusted Brain Tumor Segmentation](https://www.bilibili.com/video/BV1nW4y1a7Qp/?spm_id_from=333.337.search-card.all.click&vd_source=6ab19d355475883daafd34a6daae54a5) (**3rd Prize**)
 - *2019.07*, FUSION2019, Ottawa, Canada.
+
+# 🎖 Honors and Awards
+- 2024.05 – ARVO2025 Travel Grant Award
+- 2024.05 – OMIA MICCAI2024 Best Paper Award
+- 2021.12 – Outstanding Graduate Thesis of Chongqing
+- 2021.09 – Outstanding Postgraduate of Sichuan University
+- 2020.06 – Outstanding Graduate Student of Chongqing
+- 2017.06 - Outstanding Undergraduate Student of Chongqing
+- 2015.11 – National Scholarship (1%)
 
 <a href="http://s01.flagcounter.com/more/V8"><img src="https://s01.flagcounter.com/map/V8/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
