@@ -192,8 +192,8 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - *2019.07*, FUSION2019, Ottawa, Canada.
 
 # 🎖 Honors and Awards
-- 2024.05 – ARVO2025 Travel Grant Award
-- 2024.05 – OMIA MICCAI2024 Best Paper Award
+- 2025.05 – ARVO2025 Travel Grant Award
+- 2024.09 – OMIA MICCAI2024 Best Paper Award
 - 2021.12 – Outstanding Graduate Thesis of Chongqing
 - 2021.09 – Outstanding Postgraduate of Sichuan University
 - 2020.06 – Outstanding Graduate Student of Chongqing
