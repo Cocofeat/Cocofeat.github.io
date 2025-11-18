@@ -25,13 +25,8 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 ****
 - 🔥 Welcome your excellent manuscript! I'm guesting a special issue of Fostering Trustworthy Artificial Intelligence in Medical Imaging in the journal of **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
 ****
-## His research focuses on: 
-* 🔥 **AI+ Healthcare**: Medical image analysis, uncertainty estimation, multi-modal learning，vision-language model.
-* **Computer Vision**: Point set registration.
-* **Intelligent Vehicle**: Track2track association, multi-sensor fusion (lidar and camera).
 
-
-## 🔥 News
+## 📣 News
 - 🔥 Welcome your excellent manuscript! I'm guesting a special issue of Emerging AI Paradigms for Next-Generation Medicine: Safety and Reliability in Vision-Language Models, Agentic Systems, and Digital Twins in the journal of **IEEE JBHI** (IF = 6.7), **DDL: 31 July 2026**. [[Link]](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/10/Emerging-AI-Paradigms-for-Next-Generation-Medicine-Safety-and-Reliability-in-Vision-Language-Models-Agentic-Systems-and-Digital-Twins.docx.pdf)
 - [10/2025] One paper "Understanding the robustness of vision-language models to medical image artefacts" was accepted by **npj digital medicine**. ([link](https://www.medrxiv.org/content/10.1101/2025.05.13.25327495v1)) Congrats to Yukun Zhou!
 - [10/2025] Our paper "MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM" was accepted by **IEEE Transactions on Circuits and Systems for Video Technology**. ([link](https://arxiv.org/pdf/2409.00924)) Congrats to Nan Zhou!
