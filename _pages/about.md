@@ -55,8 +55,9 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 
 
 # 📝 Selected Publications (\* means co-first author)
+Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=fRvi7zkAAAAJ&hl=zh-CN).
 
-## Explainable VLM with Grounding/FM for ophthalmology
+## Explainable VLM with Grounding
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/uMedGround.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,7 +79,8 @@ Bo Liu, **Ke Zou**, Liming Zhan, Zexin Lu, Xiaoyu Dong, Yidi Chen, Chengqiang Xi
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Medicine 2025</div><img src='images/global_FM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
+## FM for ophthalmology
 [Building the world’s first truly global medical foundation model][[Paper]](https://www.nature.com/articles/s41591-025-03859-5)
 
 Yih Chung Tham, Jocelyn Hui Lin Goh, ..., **Ke Zou**, Carol Y Cheung, Pearse A Keane
@@ -97,6 +99,7 @@ Yih Chung Tham, Jocelyn Hui Lin Goh, ..., **Ke Zou**, Carol Y Cheung, Pearse A K
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT </div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
+## FM for medicine  
 [MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM](https://arxiv.org/pdf/2409.00924)
 
 Nan Zhou\*, **Ke Zou**\*, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Chen, Yi Zhang, Hu Chen, Huazhu Fu
