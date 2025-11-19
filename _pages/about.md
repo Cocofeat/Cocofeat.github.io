@@ -45,13 +45,9 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 - [01/2025] Happy New Year! Glad to be the **MICCAI2025 AC**, Thanks for the MICCAI community. Make it great!
 - [12/2024] One paper accepted by **IEEE TMI**: "Training-free image style alignment for domain shift on handheld ultrasound devices"[[Link]](https://ieeexplore.ieee.org/document/10813622), Congrats to Hongye!
 - [10/2024] One paper accepted by **Cell Reports Medicine**: "Enhancing Al Reliability: A Foundation Model with Uncertainty Estimation for Optical Coherence Tomography based Retinal Diseases Diagnosis"[[Link]](https://www.sciencedirect.com/science/article/pii/S2666379124006475)(https://arxiv.org/pdf/2406.16942).
-- [09/2024] Our paper **MedSAM-U** on MedSAM with uncertainty-guided auto adaptation is available on [[arxiv]](https://arxiv.org/abs/2409.00924).
-- [06/2024] One paper about "Reliable Federated Disentangling Network for Non-IID Domain Feature" was accepted by **IEEE Transactions on Big Data**.
-- [06/2024] One paper about "Reliable Segmentation of Multiple Lesions from Medical Image" was accepted by **Medical Physics**.
 - [05/2024] I have passed my Ph.D. defense, glad to be **Dr. Zou**.
 - [05/2024] One paper about "Confidence-aware multi-modality learning for eye disease screening" was accepted by **MedIA** [[Code]](https://github.com/Cocofeat/EyeMoSt/tree/main/MedIA%E2%80%9924).
 - [05/2024] Two papers about "Reliable domain adaption" and "Semi-supervised segmentation" were early accepted by **MICCAI2024** (One Spotlight).
-- [10/2023] One paper about "Uncertainty-inspired open set learning for retinal anomaly identification" was accepted by **Nature Communications**.  [[pdf]]([https://www.nature.com/articles/s41467-023-42444-7]) [[code]](https://github.com/Cocofeat/UIOS)
 
 
 # 📝 Selected Publications (\* means co-first author)
