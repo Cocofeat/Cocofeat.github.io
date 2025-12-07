@@ -27,7 +27,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 ## 📣 News
 - [10/2025] I am pleased to serve as a Guest Editor for the upcoming special issue of "Emerging AI Paradigms for Next-Generation Medicine: Safety and Reliability in Vision-Language Models, Agentic Systems, and Digital Twins" in the journal of **IEEE JBHI** (IF = 6.7), **DDL: 31 July 2026**. [[Link]](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/10/Emerging-AI-Paradigms-for-Next-Generation-Medicine-Safety-and-Reliability-in-Vision-Language-Models-Agentic-Systems-and-Digital-Twins.docx.pdf)
-- [12/2025] One agent-based comment paper was accepted by **Lancet digital Health**.
+- [12/2025] One agent-based comment paper was accepted by **Lancet Digital Health**.
 - [10/2025] One paper "Understanding the robustness of vision-language models to medical image artefacts" was accepted by **npj Digital Medicine**. ([link](https://www.medrxiv.org/content/10.1101/2025.05.13.25327495v1)) Congrats to Yukun Zhou!
 - [10/2025] Our paper "MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM" was accepted by **IEEE Transactions on Circuits and Systems for Video Technology**. ([link](https://arxiv.org/pdf/2409.00924)) Congrats to Nan Zhou!
 - [08/2025] My paper "Towards Reliable Medical Image Segmentation by Modelling Evidential Calibrated Uncertainty " was accepted by **IEEE Transactions on Cybernetics**. ([link](https://github.com/Cocofeat/DEviS)) Thanks all my Collaborators ! ! !
