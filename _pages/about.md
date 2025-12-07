@@ -22,11 +22,11 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 - 👯 I'm looking to collaborate on __Trustworthy multi-modality learning__ with uncertainty estimation, __Explainable VLM with Grounding__, __Agents/Agentic System__, __Foundation model__, __Benchmarking__, and __Hallucination and Fairness in VLM__. 
 - ⚡ Welcome your excellent manuscript! I'm guesting a special issue of Emerging AI Paradigms for Next-Generation Medicine: Safety and Reliability in Vision-Language Models, Agentic Systems, and Digital Twins in the journal of **IEEE JBHI** (IF = 6.7). [[Link]](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/10/Emerging-AI-Paradigms-for-Next-Generation-Medicine-Safety-and-Reliability-in-Vision-Language-Models-Agentic-Systems-and-Digital-Twins.docx.pdf)
 ****
-- 🔥 Welcome your excellent manuscript! I'm guesting a special issue of Fostering Trustworthy Artificial Intelligence in Medical Imaging in the journal of **Frontiers in Medicine** (IF = 3.0). [[Link]](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging)
+
 ****
 
 ## 📣 News
-- [10/2025] I am pleased to serve as a Guest Editor for the upcoming special issue of "Emerging AI Paradigms for Next-Generation Medicine: Safety and Reliability in Vision-Language Models, Agentic Systems, and Digital Twins" in the journal of **IEEE JBHI** (IF = 6.7), **DDL: 31 July 2026**. [[Link]](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/10/Emerging-AI-Paradigms-for-Next-Generation-Medicine-Safety-and-Reliability-in-Vision-Language-Models-Agentic-Systems-and-Digital-Twins.docx.pdf)
+- 🔥 [10/2025] I am pleased to serve as a Guest Editor for the upcoming special issue of "Emerging AI Paradigms for Next-Generation Medicine: Safety and Reliability in Vision-Language Models, Agentic Systems, and Digital Twins" in the journal of **IEEE JBHI** (IF = 6.7), **DDL: 31 July 2026**. [[Link]](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/10/Emerging-AI-Paradigms-for-Next-Generation-Medicine-Safety-and-Reliability-in-Vision-Language-Models-Agentic-Systems-and-Digital-Twins.docx.pdf)
 - [12/2025] One agent-based comment paper was accepted by **The Lancet Digital Health**.
 - [10/2025] One paper "Understanding the robustness of vision-language models to medical image artefacts" was accepted by **npj Digital Medicine**. ([link](https://www.medrxiv.org/content/10.1101/2025.05.13.25327495v1)) Congrats to Yukun Zhou!
 - [10/2025] Our paper "MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM" was accepted by **IEEE Transactions on Circuits and Systems for Video Technology**. ([link](https://arxiv.org/pdf/2409.00924)) Congrats to Nan Zhou!
