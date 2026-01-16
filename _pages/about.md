@@ -69,7 +69,7 @@ Bo Liu, **Ke Zou**, Liming Zhan, Zexin Lu, Xiaoyu Dong, Yidi Chen, Chengqiang Xi
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Medicine 2025</div><img src='images/global_FM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## FM for ophthalmology
+## FM for medicine
 [Building the world’s first truly global medical foundation model][[Paper]](https://www.nature.com/articles/s41591-025-03859-5)
 
 Yih Chung Tham, Jocelyn Hui Lin Goh, ..., **Ke Zou**, Carol Y Cheung, Pearse A Keane
@@ -87,8 +87,7 @@ Yih Chung Tham, Jocelyn Hui Lin Goh, ..., **Ke Zou**, Carol Y Cheung, Pearse A K
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT </div><img src='images/MedSAMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-## FM for medicine  
+
 [MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM](https://arxiv.org/pdf/2409.00924)
 
 Nan Zhou\*, **Ke Zou**\*, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Chen, Yi Zhang, Hu Chen, Huazhu Fu
@@ -104,7 +103,7 @@ Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu 
 </div>
 </div>
 
-## Hallucination detection with Agents/MLLMs
+## Agents/MLLMs for Medicine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/Eh-benchmark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
