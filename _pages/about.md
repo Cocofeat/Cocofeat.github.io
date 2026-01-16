@@ -94,10 +94,6 @@ Nan Zhou\*, **Ke Zou**\*, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Che
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 workshop</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-
 ## Agents/MLLMs for Medicine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/Eh-benchmark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
