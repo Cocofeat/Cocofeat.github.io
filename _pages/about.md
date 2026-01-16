@@ -65,11 +65,11 @@ Bo Liu, **Ke Zou**, Liming Zhan, Zexin Lu, Xiaoyu Dong, Yidi Chen, Chengqiang Xi
 </div>
 </div>
 
+## FM for medicine
 
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Medicine 2025</div><img src='images/global_FM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## FM for medicine
 [Building the world’s first truly global medical foundation model][[Paper]](https://www.nature.com/articles/s41591-025-03859-5)
 
 Yih Chung Tham, Jocelyn Hui Lin Goh, ..., **Ke Zou**, Carol Y Cheung, Pearse A Keane
