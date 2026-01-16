@@ -46,7 +46,7 @@ Identification and Grounding" was accepted by **IEEE TPAMI**. Codes and camera-r
 # 📝 Selected Publications (\* means co-first author)
 Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=fRvi7zkAAAAJ&hl=zh-CN).
 
-## Explainable VLM with Grounding
+## Explainable and Groundable VLM
  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/uMedGround.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,7 +94,7 @@ Nan Zhou\*, **Ke Zou**\*, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Che
 </div>
 </div>
 
-## Agents/MLLMs for Medicine
+## Agents/Agentic for Medicine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/Eh-benchmark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
