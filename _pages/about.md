@@ -114,9 +114,6 @@ Xiaoyu Pan, Yang Bai, **Ke Zou**, Yang Zhou, Jun Zhou, Huazhu Fu, Yih-Chung Tham
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/VASE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 ## Trustworthy Medical Image Analysis
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022, IEEE TCyber 2025</div><img src='images/MICCAI_DEviS.png' alt="sym" width="100%"></div></div>
