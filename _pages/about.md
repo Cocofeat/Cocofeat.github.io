@@ -116,12 +116,6 @@ Xiaoyu Pan, Yang Bai, **Ke Zou**, Yang Zhou, Jun Zhou, Huazhu Fu, Yih-Chung Tham
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/VASE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-[Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering][[Paper]](https://arxiv.org/abs/2503.20504)[[Code]](https://github.com/Merrical/VASE)
-
-Zehui Liao\*, Shishuai Hu\*, **Ke Zou**, Huazhu Fu, Liangli Zhen*, and Yong Xia*
-</div>
-</div>
 
 ## Trustworthy Medical Image Analysis
 
