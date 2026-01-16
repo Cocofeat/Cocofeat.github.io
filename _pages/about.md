@@ -97,11 +97,6 @@ Nan Zhou\*, **Ke Zou**\*, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Che
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023 workshop</div><img src='images/MICCAI_SAMU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[SAM-U: Multi-box Prompts Triggered Uncertainty Estimation for Reliable SAM in Medical Image](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
-
-Guoyao Deng, **Ke Zou**, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu
-</div>
-</div>
 
 ## Agents/MLLMs for Medicine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/Eh-benchmark.png' alt="sym" width="100%"></div></div>
