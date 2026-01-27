@@ -26,7 +26,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 ****
 
 ## 📣 News
-- [01/2026] Happy New Year! Glad to be the **MICCAI2026 Area Chair**, Thanks for the MICCAI community!
+- [01/2026] Glad to be the **MICCAI2026 Area Chair**, Thanks for the MICCAI community!
 - [01/2026] Happy New Year!!!🎉🎉🎉
 - [12/2025] One agent-based comment paper was accepted by **The Lancet Digital Health**.
 - [10/2025] One paper "Understanding the robustness of vision-language models to medical image artefacts" was accepted by **Nature npj Digital Medicine**. ([link](https://www.medrxiv.org/content/10.1101/2025.05.13.25327495v1)) Congrats to Yukun Zhou!
