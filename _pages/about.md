@@ -26,6 +26,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 ****
 
 ## 📣 News
+- [02/2026] One paper "Understanding pre-training data effects in retinal foundation models using two large fundus cohorts" was onlined in **Nature Communications**. ([link](https://www.nature.com/articles/s41467-026-70077-z)) 
 - [01/2026] Glad to be the **MICCAI2026 Area Chair**, Thanks for the MICCAI community!
 - [01/2026] Happy New Year!!!🎉🎉🎉
 - [12/2025] One agent-based comment paper was accepted by **The Lancet Digital Health**.
