@@ -151,7 +151,7 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - ***IEEE JBHI***
 - ***Frontiers in Medicine***
 ## Area Chair
-- ***MICCAI 2025***
+- ***MICCAI 2025, MICCAI 2026***
 ## Reviewers
 - Conference Reviewer: ***FUSION2022***, ***ICASSP2023, ICASSP2024***, ***MIDL2023, MIDL2024, MIDL 2026***, ***MICCAI2023, MICCAI2024***, ***ICIP2023, ICIP2024***, ***BIBM 2025***
 - Journal Reviewer: ***IEEE TMI***, ***Medical Image Analysis***, ***IEEE TNNLS***, ***Signal Processing***, ***Pattern Recognition***, ***Knowledge-Based Systems***, ***Engineering Applications of Artificial Intelligence***, ***IEEE TAI***, ***IEEE JBHI***
