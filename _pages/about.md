@@ -27,6 +27,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 ****
 
 ## 📣 News
+- [04/2026] Our paper was accepted in **The Lancet Digital Health**. Congrats to the team!
 - [03/2026] Our paper "Uncertainty-Aware Cross-Modal Retrieval for Medical Report Generation" was accepted in **IEEE JBHI**. Congrats to Nan Zhou!
 - [02/2026] Our paper "Understanding pre-training data effects in retinal foundation models using two large fundus cohorts" was onlined in **Nature Communications**. ([link](https://www.nature.com/articles/s41467-026-70077-z))
 - [02/2026] Our paper "Agentic artificial intelligence in eye care: is clinical autonomy finally within reach?" was onlined in **The Lancet Digital Health**. ([link](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00149-9/fulltext)) 
