@@ -19,6 +19,16 @@ redirect_from:
 
 I am a Research Fellow at National University of Singapore, under the supervision of [PYP Assistant Professor: Tham Yih Chung](https://discovery.nus.edu.sg/16620-yih-chung-tham/publications). I received my Ph.D. from the College of Computer Science, Sichuan University, co-advised by [Prof. Xiaojing Shen](https://math.scu.edu.cn/info/1013/5806.htm) and [Prof. Xuedong Yuan](https://cs.scu.edu.cn/info/1359/17827.htm). I was a visiting Ph.D. student at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of [Principal Scientist: Huazhu Fu](https://hzfu.github.io/). His publications include journals and conferences such as __Nature Medicine__, __The Lancet Digital Health__, __IEEE TPAMI__, __IEEE TMI__, __Medical Image Analysis__, __IEEE TCYB__, __IEEE TCSVT__, Applied Soft Computing, Signal Processing, __ICCV__, __MICCAI__, and FUSION. 
 
+<style>
+.custom-recruiting-list li {
+  color: #1E5AA8 !important;
+}
+
+.custom-recruiting-list li strong {
+  color: #003B73 !important;
+}
+</style>
+
 <ul class="custom-recruiting-list">
   <li>
     📬 I am recruiting remote <strong>research assistants (RA)</strong> and 
