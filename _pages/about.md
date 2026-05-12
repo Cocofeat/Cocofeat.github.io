@@ -22,17 +22,17 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 <ul class="custom-recruiting-list">
   <li>
     📬 I am recruiting remote <strong>research assistants (RA)</strong> and 
-    </strong>CSC-funded visiting students/PhD applicants</strong> interested in multimodal AI and medical foundation models.
+    <strong>CSC-funded visiting students/PhD applicants</strong> interested in multimodal AI and medical foundation models.
   </li>
 
   <li>
     👯 I am also looking to collaborate on 
-    </strong>trustworthy multimodal learning</strong> with uncertainty estimation, 
-    </strong>explainable VLMs with grounding</strong>, 
-    </strong>multi-agent/agentic systems</strong>, 
-    </strong>foundation models</strong>, 
-    </strong>benchmarking</strong>, and 
-    </strong>hallucination and fairness in VLMs</strong>.
+    <strong>trustworthy multimodal learning</strong> with uncertainty estimation, 
+    <strong>explainable VLMs with grounding</strong>, 
+    <strong>multi-agent/agentic systems</strong>, 
+    <strong>foundation models</strong>, 
+    <strong>benchmarking</strong>, and 
+    <strong>hallucination and fairness in VLMs</strong>.
   </li>
 </ul>
 
