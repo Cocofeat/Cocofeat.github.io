@@ -22,7 +22,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 <ul class="custom-recruiting-list">
   <li>
     📬 I am recruiting remote <strong>research assistants (RA)</strong> and 
-    <strong>CSC-funded visiting students/PhD applicants</strong> interested in multimodal AI and medical foundation models.
+    </strong>CSC-funded visiting students/PhD applicants</strong> interested in multimodal AI and medical foundation models.
   </li>
 
   <li>
