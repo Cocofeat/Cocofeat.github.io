@@ -24,18 +24,9 @@ I am a Research Fellow at National University of Singapore, under the supervisio
     📬 I am recruiting remote <strong>research assistants (RA)</strong> and 
     <strong>CSC-funded visiting students/PhD applicants</strong> interested in multimodal AI and medical foundation models.
   </li>
-
-  <li>
-    👯 I am also looking to collaborate on 
-    <strong>trustworthy multimodal learning</strong> with uncertainty estimation, 
-    <strong>explainable VLMs with grounding</strong>, 
-    <strong>multi-agent/agentic systems</strong>, 
-    <strong>foundation models</strong>, 
-    <strong>benchmarking</strong>, and 
-    <strong>hallucination and fairness in VLMs</strong>.
-  </li>
 </ul>
 
+- 👯 I am also looking to collaborate on __trustworthy multimodal learning__ with uncertainty estimation, __explainable VLMs with grounding__,__multi-agent/agentic systems__,__foundation models__, __benchmarking__, and __hallucination and fairness in VLMs__.
 - ⚡ Welcome your excellent manuscript! I'm guesting a special issue of Emerging AI Paradigms for Next-Generation Medicine: Safety and Reliability in Vision-Language Models, Agentic Systems, and Digital Twins in the journal of **IEEE JBHI** (IF = 6.7). [[Link]](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/10/Emerging-AI-Paradigms-for-Next-Generation-Medicine-Safety-and-Reliability-in-Vision-Language-Models-Agentic-Systems-and-Digital-Twins.docx.pdf)
 ****
 
