@@ -181,7 +181,7 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - *2022.08* [MICS2022](https://aim.nuist.edu.cn/events/mics2022.htm) of [TBraTS: Trusted Brain Tumor Segmentation](https://www.bilibili.com/video/BV1nW4y1a7Qp/?spm_id_from=333.337.search-card.all.click&vd_source=6ab19d355475883daafd34a6daae54a5) (**3rd Prize**)
 - *2019.07*, FUSION2019, Ottawa, Canada.
 
-# 🌐 Academic Visits & Exchanges
+# 🌐 Academic Visits and Exchanges
 - *2026.06*, University College London, London, UK.
 - *2026.04*, The Hong Kong Polytechnic University, Hong Kong, China.
 - *2025.10*, Tsinghua University, Beijing, China.
