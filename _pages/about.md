@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Fellow at National University of Singapore, under the supervision of [PYP Assistant Professor: Tham Yih Chung](https://discovery.nus.edu.sg/16620-yih-chung-tham/publications). I received my Ph.D. from the College of Computer Science, Sichuan University, co-advised by [Prof. Xiaojing Shen](https://math.scu.edu.cn/info/1013/5806.htm) and [Prof. Xuedong Yuan](https://cs.scu.edu.cn/info/1359/17827.htm). I was a visiting Ph.D. student at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of [Principal Scientist: Huazhu Fu](https://hzfu.github.io/). His publications include journals and conferences such as __Nature Medicine__, __The Lancet Digital Health__, __IEEE TPAMI__, __IEEE TMI__, __Medical Image Analysis__, __IEEE TCYB__, __IEEE TCSVT__, Applied Soft Computing, Signal Processing, __ICCV__, __MICCAI__, and FUSION. 
+I am a Research Fellow at National University of Singapore, under the supervision of [PYP Assistant Professor: Tham Yih Chung](https://discovery.nus.edu.sg/16620-yih-chung-tham/publications). I received my Ph.D. from the College of Computer Science, Sichuan University, co-advised by [Prof. Xiaojing Shen](https://math.scu.edu.cn/info/1013/5806.htm) and [Prof. Xuedong Yuan](https://cs.scu.edu.cn/info/1359/17827.htm). I was a visiting Ph.D. student at the Agency for Science, Technology and Research (A*STAR) in Singapore from September 2022 to September 2023, under the supervision of [Principal Scientist: Huazhu Fu](https://hzfu.github.io/). He has undertaken academic visits to leading institutions, including Tsinghua University, The Hong Kong Polytechnic University, and University College London. His publications include journals and conferences such as __Nature Medicine__, __The Lancet Digital Health__, __IEEE TPAMI__, __IEEE TMI__, __Medical Image Analysis__, __IEEE TCYB__, __IEEE TCSVT__, Applied Soft Computing, Signal Processing, __ICCV__, __MICCAI__, and FUSION. 
 
 <ul>
   <li style="color:#D32F2F !important;">
@@ -35,7 +35,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 
 ## 📣 News
 - [06/2026] Our paper "Hallucination Detection and Correction in Medical VLMs via Counter-Evidence Verification" was accepted in **MICCAI 2026**. Congrats to Nan Zhou! ([link](https://arxiv.org/abs/2606.18609))
-- [06/2026] I have a pleasant visiting journey with Prof Tham's team in UCL, London.
+- [06/2026] I had a rewarding academic visit to UCL, London, with Prof. Tham’s team, engaging in fruitful discussions and exchanges.
 - [06/2026] Glad to be the handling editor of Frontiers in Radiology (Q2, IF=4.0) ([link](https://www.frontiersin.org/journals/radiology))
 - [04/2026] Our paper was accepted in **The Lancet Digital Health**. Congrats to the team!
 - [03/2026] Our paper "Uncertainty-Aware Cross-Modal Retrieval for Medical Report Generation" was accepted in **IEEE JBHI**. Congrats to Nan Zhou!
@@ -180,6 +180,11 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - *2023.11*, The Third Graduate Academic Forum, curated by Chinese Journal of Graphics and Images.
 - *2022.08* [MICS2022](https://aim.nuist.edu.cn/events/mics2022.htm) of [TBraTS: Trusted Brain Tumor Segmentation](https://www.bilibili.com/video/BV1nW4y1a7Qp/?spm_id_from=333.337.search-card.all.click&vd_source=6ab19d355475883daafd34a6daae54a5) (**3rd Prize**)
 - *2019.07*, FUSION2019, Ottawa, Canada.
+
+# 🌐 Academic Visits & Exchanges
+- *2026.06*, University College London, London, UK.
+- *2026.04*, The Hong Kong Polytechnic University, Hong Kong, China.
+- *2025.10*, Tsinghua University, Beijing, China.
 
 # 🎖 Honors and Awards
 - 2025.05 – ARVO2025 Travel Grant Award
