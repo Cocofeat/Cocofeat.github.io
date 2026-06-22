@@ -34,6 +34,8 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 ****
 
 ## 📣 News
+- [06/2026] Our paper "Hallucination Detection and Correction in Medical VLMs via Counter-Evidence Verification" was accepted in **MICCAI 2026**. Congrats to Nan Zhou! ([link](https://arxiv.org/abs/2606.18609))
+- [06/2026] Glad to be the handling editor of Frontiers in Radiology (Q2, IF=2.3) ([link](https://www.frontiersin.org/journals/radiology))
 - [04/2026] Our paper was accepted in **The Lancet Digital Health**. Congrats to the team!
 - [03/2026] Our paper "Uncertainty-Aware Cross-Modal Retrieval for Medical Report Generation" was accepted in **IEEE JBHI**. Congrats to Nan Zhou!
 - [02/2026] Our paper "Understanding pre-training data effects in retinal foundation models using two large fundus cohorts" was onlined in **Nature Communications**. ([link](https://www.nature.com/articles/s41467-026-70077-z))
@@ -159,6 +161,8 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 ## Guest Editors
 - ***IEEE JBHI***
 - ***Frontiers in Medicine***
+## Handling Editor
+- ***Frontiers in Radiology***
 ## Area Chairs
 - ***MICCAI 2025, MICCAI 2026***
 ## Reviewers
