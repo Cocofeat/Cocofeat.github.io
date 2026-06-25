@@ -111,6 +111,14 @@ Nan Zhou\*, **Ke Zou**\*, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Che
 </div>
 
 ## Agents/Agentic for Specialists
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Lancet Digital Health 2026</div><img src='images/LDH-agent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Agentic artificial intelligence in eye care: is clinical autonomy finally within reach?] [[Paper]](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2825%2900149-9/fulltext)
+**Ke Zou**, Jocelyn Hui Lin Goha, Gabriel Dawei Yang, Sahana Srinivasan, Qingyu Chen, Pearse A Keane, Yih-Chung Tham
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/Eh-benchmark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
