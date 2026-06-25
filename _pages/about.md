@@ -168,7 +168,7 @@ Kai Ren\*, **Ke Zou**\*, Xianjie Liu, Yidi Chen, Xuedong Yuan, Xiaojing Shen, Me
 - ***MICCAI 2025, MICCAI 2026***
 ## Reviewers
 - Conference Reviewer: ***FUSION2022***, ***ICASSP2023, ICASSP2024***, ***MIDL2023, MIDL2024, MIDL 2026***, ***MICCAI2023, MICCAI2024***, ***ICIP2023, ICIP2024***, ***BIBM 2025***
-- Journal Reviewer: ***Nature Communications***, ***IEEE TMI***, ***Medical Image Analysis***, ***IEEE TNNLS***, ***Pattern Recognition***, ***Knowledge-Based Systems***,***IEEE JBHI***, ***Engineering Applications of Artificial Intelligence***, ***Biomedical Signal Processing and Control***, ***IEEE TAI***
+- Journal Reviewer: ***Nature Communications***, ***IEEE TMI***, ***Medical Image Analysis***, ***IEEE TNNLS***, ***Pattern Recognition***, ***IEEE JBHI***, ***Knowledge-Based Systems***, ***Expert systems with applications***, ***Engineering Applications of Artificial Intelligence***, ***Biomedical Signal Processing and Control***, ***Computer methods and programs in biomedicine***, ***Artificial intelligence in medicine***, ***IEEE TAI***
 
 # 💬 Talks and Presentations
 - *2025.10*, BEIHAI SUMMIT 2025, Beijing, China.
