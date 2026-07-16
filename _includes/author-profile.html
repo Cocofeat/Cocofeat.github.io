@@ -112,6 +112,13 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.nusdiscovery %}
+        <li>
+        <a href="{{ author.nusdiscovery }}" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-fw fa-university" aria-hidden="true"></i> NUS Discovery
+        </a>
+        </li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
