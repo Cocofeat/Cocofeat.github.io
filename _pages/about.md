@@ -26,6 +26,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
   </li>
 </ul>
 
+- 🏛️ [NUS Discovery Profile](https://discovery.nus.edu.sg/27749-ke-coco-zou/)
 - 👯 I am also looking to collaborate on __trustworthy multimodal learning__ with uncertainty estimation, __explainable VLMs with grounding__,__multi-agent/agentic systems__,__foundation models__, __benchmarking__, and __hallucination and fairness in VLMs__.
 - ⚡ Welcome your excellent manuscript! I'm guesting a special issue of Emerging AI Paradigms for Next-Generation Medicine: Safety and Reliability in Vision-Language Models, Agentic Systems, and Digital Twins in the journal of **IEEE JBHI** (IF = 6.7). [[Link]](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/10/Emerging-AI-Paradigms-for-Next-Generation-Medicine-Safety-and-Reliability-in-Vision-Language-Models-Agentic-Systems-and-Digital-Twins.docx.pdf)
 ****
