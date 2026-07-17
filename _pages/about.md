@@ -33,7 +33,7 @@ I am a Research Fellow at National University of Singapore, under the supervisio
 ****
 
 ## 📣 News
-- [07/2026] I received the Best Poster Award at the 13th Medical Imaging and Computing Seminar (MICS), held at Tsinghua University. Thank you all for your interest and support!
+- [07/2026] I received the **Best Poster Award** at the **13th MICS**, held in the Tsinghua University. Thank you all for your interest and support!
 - [06/2026] Our paper "Hallucination Detection and Correction in Medical VLMs via Counter-Evidence Verification" was accepted in **MICCAI 2026**. Congrats to Nan Zhou! ([link](https://arxiv.org/abs/2606.18609))
 - [06/2026] I had a rewarding academic visit to UCL, London, with Prof. Tham’s team, engaging in fruitful discussions and exchanges.
 - [06/2026] Glad to be the handling editor of Frontiers in Radiology (Q2, IF=4.0) ([link](https://www.frontiersin.org/journals/radiology))
