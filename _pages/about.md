@@ -25,7 +25,7 @@ redirect_from:
   <section class="home-section home-biography" id="research">
     <h2>Biography and research</h2>
     <div id="-educations">{{ profile.bio | markdownify }}</div>
-    <p id="roadmap"><strong>I study how medical AI can recognize uncertainty, generalize across populations, and ground its decisions in clinical evidence.</strong> I focus on three questions:</p>
+    <p id="roadmap"><strong>I study how medical AI can recognize uncertainty, ground its decisions in clinical evidence, and generalize across populations.</strong> I focus on three questions:</p>
     <ul class="home-research">
       <li id="trustworthy-medical-image-analysis"><a href="{{ '/research/#trustworthy' | relative_url }}"><strong>When should a model defer?</strong></a> I develop uncertainty estimation and calibration methods for medical image analysis.</li>
       <li id="explainable-and-groundable-vlm"><a href="{{ '/research/#explainable' | relative_url }}"><strong>Can clinicians verify a model’s reasoning?</strong></a> I connect diagnostic language to image evidence and study how <a id="agentsagentic-for-specialists" href="{{ '/research/#agents' | relative_url }}">clinical AI agents</a> can verify evidence and escalate uncertain cases.</li>
