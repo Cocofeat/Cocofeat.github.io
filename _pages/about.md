@@ -105,16 +105,23 @@ redirect_from:
     <p><a href="{{ '/cv/#honors' | relative_url }}">All honors and awards</a></p>
   </section>
 
-  <section class="home-section" id="contact">
-    <h2>Contact</h2>
-    <p>I welcome collaborations on uncertainty estimation, external validation, and evidence-grounded medical AI.</p>
-    <p><a href="mailto:{{ profile.email }}">{{ profile.email }}</a> · <a href="mailto:{{ profile.alternate_email }}">{{ profile.alternate_email }}</a></p>
-    <p class="home-links">
-      <a href="{{ site.author.nusdiscovery }}">NUS Discovery</a>
-      <a href="{{ site.author.orcid }}">ORCID</a>
-      <a href="{{ site.author.pubmed }}">PubMed</a>
-      <a href="https://www.linkedin.com/in/{{ site.author.linkedin | uri_escape }}">LinkedIn</a>
-      <a href="http://s01.flagcounter.com/more/V8">Visitor map</a>
-    </p>
+  <section class="home-section split" id="contact">
+    <div>
+      <h2>Contact</h2>
+      <p>I welcome collaborations on uncertainty estimation, multimodal medical foundation models, and trustworthy agentic AI for healthcare.</p>
+      <p class="home-links">
+        <a href="{{ site.author.nusdiscovery }}">NUS Discovery</a>
+        <a href="{{ site.author.orcid }}">ORCID</a>
+        <a href="{{ site.author.pubmed }}">PubMed</a>
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin | uri_escape }}">LinkedIn</a>
+      </p>
+    </div>
+    <figure>
+      <a href="https://s01.flagcounter.com/more/V8">
+        <img src="https://s01.flagcounter.com/map/V8/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/"
+             alt="Visitor map of the homepage" width="400" height="205"
+             loading="lazy" style="display:block;max-width:100%;height:auto">
+      </a>
+    </figure>
   </section>
 </div>
