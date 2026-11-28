@@ -11,12 +11,36 @@ redirect_from:
   <div class="home-intro" id="about-me">
     <header class="home-identity">
       <h1>{{ profile.name }} <span lang="zh">{{ profile.native_name }}</span></h1>
-      <p class="home-affiliation">{{ profile.role }} · <a href="{{ site.author.nusdiscovery }}">{{ profile.affiliation }}</a></p>
+      <p class="home-affiliation">
+        {{ profile.role }} ·
+        <a href="{{ site.author.nusdiscovery }}">
+          <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" style="vertical-align:-.15em">
+            <path d="M3 9 12 4l9 5H3Zm2 2v7m5-7v7m4-7v7m5-7v7M3 20h18"/>
+          </svg>&nbsp;{{ profile.affiliation }}
+        </a>
+      </p>
       <p class="home-links">
-        <a href="{{ '/cv/' | relative_url }}">CV</a>
-        <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
-        <a href="https://github.com/{{ site.author.github }}">GitHub</a>
-        <a href="mailto:{{ profile.email }}">Email</a>
+        <a href="{{ '/cv/' | relative_url }}">
+          <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" style="vertical-align:-.15em">
+            <path d="M6 3h8l4 4v14H6zM14 3v5h4M9 12h6m-6 4h6"/>
+          </svg>&nbsp;CV
+        </a>
+        <a href="{{ site.author.googlescholar | escape }}">
+          <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" style="vertical-align:-.15em">
+            <path d="m2 9 10-4 10 4-10 4zM6 11v5c3 3 9 3 12 0v-5m4-2v6"/>
+          </svg>&nbsp;Google Scholar
+        </a>
+        <a href="https://github.com/{{ site.author.github }}">
+          <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" style="vertical-align:-.15em">
+            <path d="m8 7-5 5 5 5m8-10 5 5-5 5M14 5l-4 14"/>
+          </svg>&nbsp;GitHub
+        </a>
+        <a href="mailto:{{ profile.email }}">
+          <svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" style="vertical-align:-.15em">
+            <rect x="3" y="5" width="18" height="14" rx="2"/>
+            <path d="m4 7 8 6 8-6"/>
+          </svg>&nbsp;Email
+        </a>
       </p>
     </header>
     <img class="home-portrait" src="{{ '/images/ke-zou-450.webp' | relative_url }}" width="450" height="600" fetchpriority="high" alt="Portrait of {{ profile.name }}">
