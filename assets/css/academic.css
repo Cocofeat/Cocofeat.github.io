@@ -185,7 +185,15 @@ time { color: var(--accent); font-size: .875rem; font-weight: 650; }
 .project-copy .paper-links { margin-bottom: .5rem; font-size: .9rem; }
 
 .home { max-width: 58rem; padding-block: clamp(1.8rem, 5vw, 3.5rem); }
-.home-intro { display: grid; grid-template-columns: minmax(0, 1fr) clamp(4rem, 12vw, 7rem); align-items: start; gap: clamp(.75rem, 3vw, 1.75rem); }
+.home-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(4rem, 12vw, 7rem);
+  align-items: start;
+  gap: clamp(.75rem, 3vw, 1.75rem);
+  background: var(--tint);
+  padding: clamp(.75rem, 3vw, 1.5rem);
+  border-radius: .75rem;
+}
 .home-portrait { display: block; width: 100%; height: auto; border-radius: .5rem; }
 .home-intro h1 { font-size: clamp(2rem, 5vw, 3.25rem); }
 .home-intro h1 span { display: inline-block; color: var(--muted); font: .54em var(--sans); }
